@@ -12,6 +12,7 @@
 - [AI in Insurance](#ai-in-insurance)
 - [Literature review](#literature-review)
 - [Startups](#startups)
+- [Appendix](#appendix)
 
 
 [Back to top](#contents)
@@ -47,6 +48,8 @@
 #### AI in Risk Management
 
 [Back to top](#contents)
+
+
 
 
 
@@ -143,25 +146,18 @@ Sentiment Analysis:
 [Back to top](#contents)
 
 
-- [Forbes: Fintech 50 2018](https://www.forbes.com/fintech/list/#tab:overall)
-- [cbinsights: fintech](https://www.cbinsights.com/research/fintech/)
-- [The Fintech 250: The Tech Startups Redefining The Financial Services Industry](https://www.cbinsights.com/research/fintech-250-startups-most-promising/)
-- [The India Fintech Market Map: 72 Startups Working Across Lending, Payments, Insurance & Banking](https://www.cbinsights.com/research/india-fintech-startup-market-map/)
-- [145+ Tech Startups Focused On Transforming Capital Markets In One Market Map](https://www.cbinsights.com/research/capital-markets-tech-market-map-fintech/)
-- [The AI In Fintech Market Map: 100+ Companies Using AI Algorithms To Improve The Fin Services Industry](https://www.cbinsights.com/research/ai-fintech-startup-market-map/)
-- [Wealth Tech Market Map: 90+ Companies Transforming Investment And Wealth Management](https://www.cbinsights.com/research/wealth-tech-fin-tech-market-map/)
-- [Disrupting European Banking: The FinTech Startups That Are Unbundling HSBC, Santander, and BNP](https://www.cbinsights.com/research/disrupting-european-banking-fintech-startups/)
-- [Lending, Investments, And Personal Finance: 102 Startups Attacking The Retail Banking Value Chain](https://www.cbinsights.com/research/digital-banking-market-map/)
-- [From Point-Of-Sale To Money Transfers: 109 Startups Disrupting The Payments Industry](https://www.cbinsights.com/research/payments-market-map/)
-- [Insurance Tech Rising: 135+ Insurance Startups Across P2P, Life, Commercial & More in One Chart](https://www.cbinsights.com/research/insurance-tech-market-map/)
-- [The New Alpha: 30+ Startups Providing Alternative Data For Sophisticated Investors](https://www.cbinsights.com/research/alternative-data-startups-market-map-company-list/)
-- [Where Smart Money VCs Are Placing Bets in Fintech in One Market Map](https://www.cbinsights.com/research/fintech-startup-market-map-smart-money/)
-- [Millennial Personal Finance: 63 Fintech Startups Targeting Millennials](https://www.cbinsights.com/research/fin-tech-startups-millennials/)
-- [Ledger Fever: 95 Bitcoin & Blockchain Startups In One Market Map](https://www.cbinsights.com/research/bitcoin-blockchain-startup-market-map/)
-- [Disrupting Banking: The Fintech Startups That Are Unbundling Wells Fargo, Citi and Bank of America](https://www.cbinsights.com/research/disrupting-banking-fintech-startups-2016/)
-- [Bracing for seven critical changes as fintech matures](https://www.mckinsey.com/industries/financial-services/our-insights/bracing-for-seven-critical-changes-as-fintech-matures)
-- [AI Applications in the Top 4 Indian Banks](https://www.techemergence.com/ai-applications-in-the-top-4-indian-banks/)
-- [AI in Banking – An Analysis of America’s 7 Top Banks](https://www.techemergence.com/ai-in-banking-analysis/)
-- [Artificial Intelligence and The Banking Industry’s $1 Trillion Opportunity](https://thefinancialbrand.com/72653/artificial-intelligence-trends-banking-industry/)
-- [The use of Artificial Intelligence (AI) based technological applications by Indian Banks ](https://www.researchgate.net/publication/299430567_The_use_of_Artificial_Intelligence_AI_based_technological_applications_by_Indian_Banks)
 
+-------------
+
+#### Appendix
+
+[Back to top](#contents)
+
+![banking_ai_heat_map_acc](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/banking_ai_heat_map_acc.PNG)
+
+
+![Screen-Shot-2018-07-18-at-7.38.18-PM-1024x467](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/18193851/Screen-Shot-2018-07-18-at-7.38.18-PM-1024x467.png)
+
+
+
+![Artificial-Intelligence-Financial-Industry](https://thefinancialbrand.com/wp-content/uploads/2018/05/Artificial-Intelligence-Financial-Industry.png)
