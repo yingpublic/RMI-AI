@@ -60,6 +60,7 @@
 
 [Back to top](#contents)
 
+- 2018.07 AI IN P&C INSURANCE. Pragmatic Approaches for Today, Promise for Tomorrow. [reviews]() [pdf](https://capeanalytics.com/wp-content/uploads/2018/11/SMA-AI-in-PC-Insurance-2018.pdf) 
 
 
 ----------
