@@ -153,7 +153,7 @@ Sentiment Analysis:
 
 [Back to top](#contents)
 
-![banking_ai_heat_map_acc](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/banking_ai_heat_map_acc.PNG)
+![AI-in-FinTech-Market-Map-Image3](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/AI-in-FinTech-Market-Map-Image3.png)
 
 
 ![Screen-Shot-2018-07-18-at-7.38.18-PM-1024x467](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/18193851/Screen-Shot-2018-07-18-at-7.38.18-PM-1024x467.png)
