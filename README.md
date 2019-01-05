@@ -8,7 +8,7 @@
 - [Misc](#misc)
 - [Finance Industry](#finance-industry)
 - [Finance Technology](#finance-technology)
-- [AI in Risk Management](#ai-in-rm)
+- [AI in Risk Management](#ai-in-risk-management)
 - [AI in Insurance](#ai-in-insurance)
 - [Literature review](#literature-review)
 - [Startups](#startups)
