@@ -61,8 +61,35 @@
 
 [Back to top](#contents)
 
+[Decentralize Insurance]
+Decentralized Insurance Developer Conference 2017 [Playlist](https://www.youtube.com/playlist?list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO) Bold is something I'm more interested in. 
+- **Keynote: Decentralized Decision Making** [Video](https://www.youtube.com/watch?v=-j6Esc_Pm_I&index=2&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
+- Workshop: How to Develop a Blockchain-based Insurance Solution in a Few Hours [Video](https://www.youtube.com/watch?v=OqlThIN-kC4&index=3&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
+- Bringing the True P2P Mutual Back to Insurance [Video](https://www.youtube.com/watch?v=-0kEd9pcllc&index=4&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
+- Insurance and Blockchain, Show Me the Code! [Video](https://www.youtube.com/watch?v=7cHvg6KugcE&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=5)
+- **Workshop - Smart Contract Car Insurance in 30 min **[Video](https://www.youtube.com/watch?v=paWuuz8pZQw&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=7)
+- Workshop - How to Build Decentralized Insurance Apps [Video](https://www.youtube.com/watch?v=Wlii-juuuEY&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=8)
+- Fireside Chat - View on Decentralized Insurance From an Insurance VC [Video](https://www.youtube.com/watch?v=tiZYSAWW49w&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=9)
+- Feeding Authentic Data into Blockchain: Insurance Dapps on Steroids [Video](https://www.youtube.com/watch?v=zLJiWL3VS6I&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=10)
+- **A Simple Probability Model For Decentralized Insurance** [Video](https://www.youtube.com/watch?v=NsF0mOvyDp8&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=11)
+- Standardized Protocols For Decentralized Insurance [Video](https://www.youtube.com/watch?v=y3_a7iwWldI&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=12)
+- **The Value Behind Hyperledger** [Video](https://www.youtube.com/watch?v=2OaAeWke7LY&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=13)
+- **Introduction To Machine Learning For Insurance Use Cases** [Video](https://www.youtube.com/watch?v=vq6G7NnWlDQ&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=14)
+- **Fireside Chat: Prediction Markets For Insurance** [Video](https://www.youtube.com/watch?v=dOrLEuD3Arw&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=15)
+- **Blockchain & Insurance | Regulation & Compliance** [Video](https://www.youtube.com/watch?v=Ll-1wS3pcSQ&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=16)
+- Risk Pool Tokens [Video](https://www.youtube.com/watch?v=Rvz2RjlGFl4&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=17)
+- [Video]()
+- [Video]()
+- [Video]()
+- [Video]()
+
+
+
 [Claims]
 - R/Shiny - Machine Learning for insurance claims [Video](https://www.youtube.com/watch?v=3KNlT3evDkc) [Article](https://www.r-bloggers.com/machine-learning-for-insurance-claims/) [More Shiny](https://www.youtube.com/channel/UC4cF877tXYUa3h3Ou6tcxXA/videos)
+
+[Fraud Detection] Casualty Insurance face lots of fraud.
+
 - Top 10 Data Science Use Cases in Insurance [Article](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
 - 2018.07 AI IN P&C INSURANCE. Pragmatic Approaches for Today, Promise for Tomorrow. [reviews]() [pdf](https://capeanalytics.com/wp-content/uploads/2018/11/SMA-AI-in-PC-Insurance-2018.pdf) 
 
