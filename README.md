@@ -111,6 +111,8 @@ Pricing:
 - [ML] Machine Learning application in non-life pricing. Frequency modelling: an educational case study. [report](https://reacfin.com/en/sites/default/files/documents/20170914%20Machine%20Learning%20applications%20for%20non-life%20pricing.pdf) 
 - [ML] Data Analytics for Non-Life Insurance Pricing [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870308)
 - [ML] Data Science in Non-Life Insurance Pricing. Predicting Claims Frequencies using Tree-Based Models. [Master Thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf)
+- [ML] Overview and practical application of Machine learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf) conclusion: domain knowledge win
+
 
 ===
 - FinBrain: When Finance Meets AI 2.0. [arxiv](https://arxiv.org/abs/1808.08497v1)
