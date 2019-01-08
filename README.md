@@ -70,6 +70,9 @@
 
 [Back to top](#contents)
 
+- Using Bidirectional Generative Adversarial Networks to estimate Value-at-Risk for Market Risk Management [Medium](https://towardsdatascience.com/using-bidirectional-generative-adversarial-networks-to-estimate-value-at-risk-for-market-risk-c3dffbbde8dd) [Github](https://github.com/hamaadshah/market_risk_gan_keras)
+
+
 
 - FinBrain: When Finance Meets AI 2.0. [arxiv](https://arxiv.org/abs/1808.08497v1)
 - Deep Learning in Finance. [arxiv](https://arxiv.org/abs/1602.06561v3) - 2018
