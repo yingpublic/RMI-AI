@@ -78,7 +78,8 @@ Decentralized Insurance Developer Conference 2017 [Playlist](https://www.youtube
 - **Fireside Chat: Prediction Markets For Insurance** [Video](https://www.youtube.com/watch?v=dOrLEuD3Arw&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=15)
 - **Blockchain & Insurance | Regulation & Compliance** [Video](https://www.youtube.com/watch?v=Ll-1wS3pcSQ&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=16)
 - Risk Pool Tokens [Video](https://www.youtube.com/watch?v=Rvz2RjlGFl4&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=17)
-- [Video]()
+
+Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube.com/playlist?list=PLv_C3XL8vCF4rniMwrZtaLTFNzCrGT1FF)
 - [Video]()
 - [Video]()
 - [Video]()
