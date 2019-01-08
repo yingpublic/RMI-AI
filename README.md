@@ -49,6 +49,7 @@
 
 [Back to top](#contents)
 
+- Deep Learning’s Killer App for Finance? [Article](https://aldousbirchall.com/2017/03/25/deep-learnings-killer-app/)
 
 
 
@@ -70,7 +71,7 @@
 
 [Back to top](#contents)
 
-- Using Bidirectional Generative Adversarial Networks to estimate Value-at-Risk for Market Risk Management [Medium](https://towardsdatascience.com/using-bidirectional-generative-adversarial-networks-to-estimate-value-at-risk-for-market-risk-c3dffbbde8dd) [Github](https://github.com/hamaadshah/market_risk_gan_keras)
+- [GANs] Using Bidirectional Generative Adversarial Networks to estimate Value-at-Risk for Market Risk Management [Medium](https://towardsdatascience.com/using-bidirectional-generative-adversarial-networks-to-estimate-value-at-risk-for-market-risk-c3dffbbde8dd) [Github](https://github.com/hamaadshah/market_risk_gan_keras)
 
 
 
