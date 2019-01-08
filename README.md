@@ -61,13 +61,13 @@
 
 [Back to top](#contents)
 
-[Decentralize Insurance]
-Decentralized Insurance Developer Conference 2017 [Playlist](https://www.youtube.com/playlist?list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO) Bold is something I'm more interested in. 
+[Decentralize Insurance] \
+Decentralized Insurance Developer Conference 2017 [Playlist](https://www.youtube.com/playlist?list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO) (Bold is something I'm more interested in.) 
 - **Keynote: Decentralized Decision Making** [Video](https://www.youtube.com/watch?v=-j6Esc_Pm_I&index=2&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
 - Workshop: How to Develop a Blockchain-based Insurance Solution in a Few Hours [Video](https://www.youtube.com/watch?v=OqlThIN-kC4&index=3&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
 - Bringing the True P2P Mutual Back to Insurance [Video](https://www.youtube.com/watch?v=-0kEd9pcllc&index=4&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
 - Insurance and Blockchain, Show Me the Code! [Video](https://www.youtube.com/watch?v=7cHvg6KugcE&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=5)
-- **Workshop - Smart Contract Car Insurance in 30 min **[Video](https://www.youtube.com/watch?v=paWuuz8pZQw&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=7)
+- **Workshop: Smart Contract Car Insurance in 30 min** [Video](https://www.youtube.com/watch?v=paWuuz8pZQw&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=7)
 - Workshop - How to Build Decentralized Insurance Apps [Video](https://www.youtube.com/watch?v=Wlii-juuuEY&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=8)
 - Fireside Chat - View on Decentralized Insurance From an Insurance VC [Video](https://www.youtube.com/watch?v=tiZYSAWW49w&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=9)
 - Feeding Authentic Data into Blockchain: Insurance Dapps on Steroids [Video](https://www.youtube.com/watch?v=zLJiWL3VS6I&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=10)
