@@ -61,6 +61,7 @@
 
 [Back to top](#contents)
 
+[Claims]
 - R/Shiny - Machine Learning for insurance claims [Video](https://www.youtube.com/watch?v=3KNlT3evDkc) [Article](https://www.r-bloggers.com/machine-learning-for-insurance-claims/) [More Shiny](https://www.youtube.com/channel/UC4cF877tXYUa3h3Ou6tcxXA/videos)
 - Top 10 Data Science Use Cases in Insurance [Article](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
 - 2018.07 AI IN P&C INSURANCE. Pragmatic Approaches for Today, Promise for Tomorrow. [reviews]() [pdf](https://capeanalytics.com/wp-content/uploads/2018/11/SMA-AI-in-PC-Insurance-2018.pdf) 
@@ -73,10 +74,11 @@
 
 [Back to top](#contents)
 
+Market Risk Manegement:
 - [GANs] Using Bidirectional Generative Adversarial Networks to estimate Value-at-Risk for Market Risk Management [Medium](https://towardsdatascience.com/using-bidirectional-generative-adversarial-networks-to-estimate-value-at-risk-for-market-risk-c3dffbbde8dd) [Github](https://github.com/hamaadshah/market_risk_gan_keras)
 
 
-
+===
 - FinBrain: When Finance Meets AI 2.0. [arxiv](https://arxiv.org/abs/1808.08497v1)
 - Deep Learning in Finance. [arxiv](https://arxiv.org/abs/1602.06561v3) - 2018
 - Forecasting Economics and Financial Time Series: ARIMA vs. LSTM. [arxiv](https://arxiv.org/abs/1803.06386v1) - 2018
