@@ -102,8 +102,15 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 [Back to top](#contents)
 
+BirdView for Risk Management:
+- AI and Machine Learning for Risk Management [paper](https://www.garp.org/#!/risk-intelligence/all/all/a1Z1W000004AoB1UAK)
+
 Market Risk Manegement:
 - [GANs] Using Bidirectional Generative Adversarial Networks to estimate Value-at-Risk for Market Risk Management [Medium](https://towardsdatascience.com/using-bidirectional-generative-adversarial-networks-to-estimate-value-at-risk-for-market-risk-c3dffbbde8dd) [Github](https://github.com/hamaadshah/market_risk_gan_keras)
+- [GAN] 2005/Two-Step Disentanglement for Financial Data [paper](https://arxiv.org/pdf/1709.00199.pdf)
+- [GAN/LSTM/CNN] Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets [paper](https://www.hindawi.com/journals/mpe/2018/4907423/)
+- [RL] RISK-AVERSE DISTRIBUTIONAL REINFORCEMENT LEARNING: a cvar optimization approach [master thesis](https://dspace.cvut.cz/bitstream/handle/10467/76432/F3-DP-2018-Stanko-Silvestr-thesis.pdf)
+
 
 Pricing:
 - [ML] Machine Learning Methods to Perform Pricing Optimization. A Comparison with Standard GLMs. [paper](https://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)
@@ -112,6 +119,12 @@ Pricing:
 - [ML] Data Analytics for Non-Life Insurance Pricing [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870308)
 - [ML] Data Science in Non-Life Insurance Pricing. Predicting Claims Frequencies using Tree-Based Models. [Master Thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf)
 - [ML] Overview and practical application of Machine learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf) conclusion: domain knowledge win
+
+
+Portfolio Management
+- [RL] 2005/J of AI: Risk-Sensitive Reinforcement Learning Applied to Control under Constraints [paper](https://arxiv.org/pdf/1109.2147.pdf) [note]()
+- [RL-deepQ] Portfolio Management using Reinforcement Learning [paper](http://cs229.stanford.edu/proj2016/report/JinElSaawy-PortfolioManagementusingReinforcementLearning-report.pdf) [note]()
+- [RL] 1996/ Use Of Neural Network Ensembles for Portfolio Selection and Risk Management
 
 
 ===
