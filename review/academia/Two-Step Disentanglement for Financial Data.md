@@ -7,13 +7,13 @@
 > 2. unspecified factors: factors that are not correlated
 
 ## Idea
-> * Use adversarial training 
-> * classifier S: trained to predict the specified factors. The activations of S are then used to capture the specified
+* Use adversarial training 
+* classifier S: trained to predict the specified factors. The activations of S are then used to capture the specified
 component of each sample.
-> * network Z: trained to recover the complimentary component
-> * A first loss on Z ensures that the output of both networks together (S and Z) is able to reconstruct the original sample
-> * A second loss, which is based on a third, adversarial, network, ensures that Z does not encode the specified factors
-> * The algorithm makes very weak assumptions about the distribution of the specified and unspecified factors.
+* network Z: trained to recover the complimentary component
+* A first loss on Z ensures that the output of both networks together (S and Z) is able to reconstruct the original sample
+* A second loss, which is based on a third, adversarial, network, ensures that Z does not encode the specified factors
+* The algorithm makes very weak assumptions about the distribution of the specified and unspecified factors.
 
 ## Network/Model
 > * Encoding part: chose S and Z to be vectors of real numbers (rather than a one-hot vector)
