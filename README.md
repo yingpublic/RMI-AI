@@ -80,9 +80,7 @@ Decentralized Insurance Developer Conference 2017 [Playlist](https://www.youtube
 - Risk Pool Tokens [Video](https://www.youtube.com/watch?v=Rvz2RjlGFl4&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO&index=17)
 
 Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube.com/playlist?list=PLv_C3XL8vCF4rniMwrZtaLTFNzCrGT1FF)
-- [Video]()
-- [Video]()
-- [Video]()
+
 
 
 
@@ -122,6 +120,7 @@ Pricing:
 
 
 Portfolio Management
+- [RL] 2015: A Comprehensive Survey on Safe Reinforcement Learning [paper](http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/A%20Comprehensive%20Survey%20on%20Safe%20Reinforcement%20Learning.md)
 - [RL] 2005/J of AI: Risk-Sensitive Reinforcement Learning Applied to Control under Constraints [paper](https://arxiv.org/pdf/1109.2147.pdf) [note]()
 - [RL-deepQ] Portfolio Management using Reinforcement Learning [paper](http://cs229.stanford.edu/proj2016/report/JinElSaawy-PortfolioManagementusingReinforcementLearning-report.pdf) [note]()
 - [RL] 1996/ Use Of Neural Network Ensembles for Portfolio Selection and Risk Management
