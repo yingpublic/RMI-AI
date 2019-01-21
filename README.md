@@ -109,6 +109,9 @@ Market Risk Manegement:
 - [GAN/LSTM/CNN] Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets [paper](https://www.hindawi.com/journals/mpe/2018/4907423/)
 - [RL] RISK-AVERSE DISTRIBUTIONAL REINFORCEMENT LEARNING: a cvar optimization approach [master thesis](https://dspace.cvut.cz/bitstream/handle/10467/76432/F3-DP-2018-Stanko-Silvestr-thesis.pdf)
 
+Option Pricing:
+- [FeedFroward] Machine Learning in Finance: The Case of Deep Learning for Option Pricing [paper](https://srdas.github.io/Papers/BlackScholesNN.pdf) [pythob code](https://srdas.github.io/DLBook/DeepLearningWithPython.html#option-pricing) [note]()
+
 
 Pricing:
 - [ML] Machine Learning Methods to Perform Pricing Optimization. A Comparison with Standard GLMs. [paper](https://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)
