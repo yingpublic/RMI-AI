@@ -116,6 +116,7 @@ Option Pricing:
 - [ANN] 2013: Option Pricing Using Artificial Neural Networks: An Australian Perspective [dissertation](https://pure.bond.edu.au/ws/portalfiles/portal/18243185/Option_Pricing_Using_Artificial_Neural_Networks.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Option%20Pricing%20Using%20Artificial%20Neural%20Networks:%20An%20Australian%20Perspective.md)
 
 Pricing:
+- [DNN] 2018: The Day I Taught My Computer What Duration Is (Neural Network Bond Pricing) [blog w/ code](https://www.linkedin.com/pulse/day-i-taught-my-computer-what-duration-neural-network-jacob-bourne/)
 - [ML] Machine Learning Methods to Perform Pricing Optimization. A Comparison with Standard GLMs. [paper](https://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)
 - [ML] Tree-based machine learning for insurance pricing. [slide](https://kuleuvencongres.be/eaj2018/documents/presentations/1-roel-henckaerts.pdf)
 - [ML] Machine Learning application in non-life pricing. Frequency modelling: an educational case study. [report](https://reacfin.com/en/sites/default/files/documents/20170914%20Machine%20Learning%20applications%20for%20non-life%20pricing.pdf) 
