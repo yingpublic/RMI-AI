@@ -110,6 +110,7 @@ Market Risk Manegement:
 - [RL] RISK-AVERSE DISTRIBUTIONAL REINFORCEMENT LEARNING: a cvar optimization approach [master thesis](https://dspace.cvut.cz/bitstream/handle/10467/76432/F3-DP-2018-Stanko-Silvestr-thesis.pdf)
 
 Option Pricing:
+- [GNN] 2016: Gated Neural Networks for Option Pricing: Rationality by Design [paper](https://arxiv.org/pdf/1609.07472.pdf) / [note]()
 - [FeedFroward] 2017: Machine Learning in Finance: The Case of Deep Learning for Option Pricing [paper](https://srdas.github.io/Papers/BlackScholesNN.pdf) /  [pythob code](https://srdas.github.io/DLBook/DeepLearningWithPython.html#option-pricing) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Machine%20Learning%20in%20Finance:%20The%20Case%20of%20Deep%20Learning%20for%20Option%20Pricing.md)
 - [ANN] 2013: Option Pricing Using Artificial Neural Networks: An Australian Perspective [dissertation](https://pure.bond.edu.au/ws/portalfiles/portal/18243185/Option_Pricing_Using_Artificial_Neural_Networks.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Option%20Pricing%20Using%20Artificial%20Neural%20Networks:%20An%20Australian%20Perspective.md)
 
