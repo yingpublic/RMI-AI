@@ -110,6 +110,7 @@ Market Risk Manegement:
 - [RL] RISK-AVERSE DISTRIBUTIONAL REINFORCEMENT LEARNING: a cvar optimization approach [master thesis](https://dspace.cvut.cz/bitstream/handle/10467/76432/F3-DP-2018-Stanko-Silvestr-thesis.pdf)
 
 Option Pricing:
+- [RL] 2018: Pricing Options with an Artificial Neural Network: A Reinforcement Learning Approach [thesis w/ simplified python](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2565055/Masteroppgave%20HaakonTrønnes.g.pdf?sequence=1&isAllowed=y) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Pricing%20Options%20with%20an%20Artificial%20Neural%20Network:%20A%20Reinforcement%20Learning%20Approach.md)
 - [NN] 2018 World Quant Blog: BEYOND BLACK-SCHOLES: A NEW OPTION FOR OPTIONS PRICING [blog](https://www.weareworldquant.com/en/thought-leadership/beyond-black-scholes-a-new-option-for-options-pricing/)
 - [DNN] 2018: The Day my Computer Won the Nobel Prize (Neural Network Option Pricing) [medium w/ python](https://medium.com/datadriveninvestor/the-day-my-computer-won-the-nobel-prize-neural-network-option-pricing-d29b4379f1d2)
 - [GNN] 2017: Gated Neural Networks for Option Pricing: Rationality by Design [paper](https://arxiv.org/pdf/1609.07472.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Gated%20Neural%20Networks%20for%20Option%20Pricing:%20Rationality%20by%20Design.md) / [github?](https://github.com/arraystream/fftoptionlib) / [blog](https://www.arraystream.com/2017/05/08/fftoptionlib/)
