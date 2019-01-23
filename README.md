@@ -103,6 +103,13 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 BirdView for Risk Management:
 - AI and Machine Learning for Risk Management [paper](https://www.garp.org/#!/risk-intelligence/all/all/a1Z1W000004AoB1UAK)
 
+Survival Analysis:(relatively mature)
+- [ML] 2017: Machine Learning for Survival Analysis: A Survey [paper](https://arxiv.org/pdf/1708.04649.pdf)
+- [repository](https://github.com/robi56/Survival-Analysis-using-Deep-Learning)
+- [DeepSurv package](https://github.com/jaredleekatzman/DeepSurv)
+- [SurvivalNet package](https://github.com/CancerDataScience/SurvivalNet)
+
+
 Market Risk Manegement:
 - [GANs] Using Bidirectional Generative Adversarial Networks to estimate Value-at-Risk for Market Risk Management [Medium](https://towardsdatascience.com/using-bidirectional-generative-adversarial-networks-to-estimate-value-at-risk-for-market-risk-c3dffbbde8dd) [Github](https://github.com/hamaadshah/market_risk_gan_keras)
 - [GAN] 2005/Two-Step Disentanglement for Financial Data [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Two-Step%20Disentanglement%20for%20Financial%20Data.md) [paper](https://arxiv.org/pdf/1709.00199.pdf)
