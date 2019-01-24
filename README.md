@@ -28,6 +28,12 @@ What's the future looks like for DL & Finance?
 * Igor Halperin: RL on management [quora](https://www.quora.com/What-would-be-the-next-big-thing-in-quantitative-finance-after-machine-learning-big-data-high-frequency-algorithmic-trading-How-is-the-industry-going-to-evolve-in-the-next-10-years)
 * Igor Halperin: deep learning is useful for mortgage risk, as was shown by Kay Giesecke and his group at Stanford, as well as for credit scoring/credit cards, P2P lending [quora](https://www.quora.com/Is-deep-learning-useful-in-finance-outside-of-high-frequency-trading)
 * Igor Halperin: RL on credit scoring: [Quora](https://www.quora.com/Which-books-or-lecture-notes-should-I-learn-to-begin-develop-reinforcement-learning-models-for-credit-scoring)
+
+Finance data property w.r.t. Deep Learning
+
+* Too noisy to use ML model not stationary
+* Data are small-to-medium, where deep learning needs large data
+* Igor Halperin: (Deep) feedforward neural nets, autoencoders and LSTM seem to be the state of the art of ML in finance, based on what is published and presented at different conferences. [Quora](https://www.quora.com/What-is-the-state-of-the-art-in-simulating-financial-price-series)
 * Igor Halperin: ML currently un-explainable in finance [Quora](https://www.quora.com/What-is-being-done-at-the-academic-level-so-as-to-make-ML-algorithms-more-interpretable-for-regulators-in-finance-risk-space)
 
 ------------
