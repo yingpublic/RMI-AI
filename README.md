@@ -112,6 +112,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 BirdView for Risk Management:
 - AI and Machine Learning for Risk Management [paper](https://www.garp.org/#!/risk-intelligence/all/all/a1Z1W000004AoB1UAK)
+- Accenture(consulting): Validating Machine Learning and AI Models in Financial [report](https://www.accenture.com/t20180427T082714Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/MainPages/Documents/Global/Accenture-Emerging-Trends-in-the-Validation-of-ML-and-AI-Models.pdf)
 
 Survival Analysis:(relatively mature)
 - [ML] 2017: Machine Learning for Survival Analysis: A Survey [paper](https://arxiv.org/pdf/1708.04649.pdf)
@@ -131,7 +132,10 @@ Mortgage Risk
 
 Credit Risk
 - [DL] 2018: Credit Risk Analysis Using Machine and Deep Learning Models [paper](https://halshs.archives-ouvertes.fr/halshs-01835164/document)
-
+- [LSTM] 2018: Deep Credit Risk Ranking with LSTM [talk+slide](https://databricks.com/session/productionizing-credit-risk-analytics-with-lstm-tensorspark-a-wells-fargo-case-study) 
+- [DL] Credit Card Default Prediction Using TensorFlow (Part-1 Deep Neural Networks) [medium](https://medium.com/@Saadism/credit-card-default-prediction-using-tensorflow-part-1-deep-neural-networks-ef22cfd4d278)
+- [ML] 2018: Ensemble Learning or Deep Learning? Application to Default risk analysis. [student's paper in TW data](http://www.econ.kobe-u.ac.jp/RePEc/koe/wpaper/2018/1802.pdf)
+- [ML] 2017: ANALYSIS OF FINANCIAL CREDIT RISK USING MACHINE LEARNING [thesis](https://arxiv.org/pdf/1802.05326.pdf)
 
 Option Pricing:
 - [RL] 2018 Igor Halperin: Model-Free Option Pricing with Reinforcement Learning [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/IgorHalperin_Columbia_ML_in_finance_QLBS.pdf) / [coursera](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
