@@ -78,6 +78,29 @@ Casualty Actuarial Society (CAS) define Enterprise risk management (ERM)
 * Neuron-based methods (e.g. Neural Network, "Deep Learning" or Restricted Boltzmann Machine);
 * Graph/network-based methods (e.g. Naïve Bayes, Hidden Markov Model, Deep Belief Network).
 
+Insurance moves from reactive to predictive 
+- not just using data but also create data
+1. Underwriting: rating(Frequency and Severity)
+- CNN: Identify Roof Type
+- Flight delay insurance
+- Lemonade Insurance
+- Car Insurance chips
+- Healthcare insurance: Medical Imaging eg. Google Deepmind AI detect eye disease [two mins paper's video](https://www.youtube.com/watch?v=wR2OlsF1CEY)
+2. Underwriting: Fraud Detection
+3. Underwriting: Customer segmentation
+-----------------------------------------
+4. Marketing: Personalized marketing
+5. Marketing: Recommendation engines
+-----------------------------------------
+6. Claims prediction
+
+
+make a small twist from stat to ML/DL
+- example 想一下有什麼例子概念是一樣的，但是小小的轉變一下就可以變很厲害 搜集資料？ lemonade?
+- 模型方面
+
+
+
 - Deep Learning’s Killer App for Finance? [Article](https://aldousbirchall.com/2017/03/25/deep-learnings-killer-app/)
 
 
