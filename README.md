@@ -59,6 +59,19 @@ Finance data property w.r.t. Deep Learning
 
 [Back to top](#contents)
 
+Financial Risk Management Categories
+1. Market Risk
+2. Credit Risk
+3. Liquidity Risk
+4. Operational Risk
+
+Casualty Actuarial Society (CAS) define Enterprise risk management (ERM)
+1. Hazard risk: Liability torts, Property damage, Natural catastrophe
+2. Financial risk: Pricing risk, Asset risk, Currency risk, Liquidity risk
+3. Operational risk: Customer satisfaction, Product failure, Integrity, Reputational risk; Internal Poaching; Knowledge drain
+4. Strategic risks: Competition, Social trend, Capital availability
+
+
 - Deep Learning’s Killer App for Finance? [Article](https://aldousbirchall.com/2017/03/25/deep-learnings-killer-app/)
 
 
