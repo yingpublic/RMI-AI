@@ -72,6 +72,12 @@ Casualty Actuarial Society (CAS) define Enterprise risk management (ERM)
 4. Strategic risks: Competition, Social trend, Capital availability
 
 
+[GLM] Statistical Method can be classified by this
+* Tree-based methods (e.g. Random Forest, AdaBoost, Gradient Boost Machine);
+* Kernel-based methods (e.g. Support Vector Machine, Kernel Learning);
+* Neuron-based methods (e.g. Neural Network, "Deep Learning" or Restricted Boltzmann Machine);
+* Graph/network-based methods (e.g. Naïve Bayes, Hidden Markov Model, Deep Belief Network).
+
 - Deep Learning’s Killer App for Finance? [Article](https://aldousbirchall.com/2017/03/25/deep-learnings-killer-app/)
 
 
