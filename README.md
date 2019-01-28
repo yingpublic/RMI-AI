@@ -35,6 +35,13 @@ Finance data property w.r.t. Deep Learning
 * Data are small-to-medium, where deep learning needs large data
 * Igor Halperin: (Deep) feedforward neural nets, autoencoders and LSTM seem to be the state of the art of ML in finance, based on what is published and presented at different conferences. [Quora](https://www.quora.com/What-is-the-state-of-the-art-in-simulating-financial-price-series)
 * Igor Halperin: ML currently un-explainable in finance [Quora](https://www.quora.com/What-is-being-done-at-the-academic-level-so-as-to-make-ML-algorithms-more-interpretable-for-regulators-in-finance-risk-space)
+* Financial time-series is a partial information game (POMDP), so needs RL
+> * High frequency trading and algorithmic trading are the main drivers of price at short intervals (< 1 day).
+> * Opening and closing prices have their own patterns - both in stocks and futures - the two asset classes I have worked with.
+> * News and rumors are the driving forces when it comes to multi-day horizons. Specific company news can happen at any time without any prior notice. However, the timeline for some events is known beforehand. Company result schedule, as well as the economic data calendar, are known beforehand.
+> * Value investing and economic cycles matter the most when it comes to price changes at a multi-year range.
+
+
 
 ------------
 
@@ -114,6 +121,12 @@ make a small twist from stat to ML/DL
 #### AI in Insurance
 
 [Back to top](#contents)
+SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](https://www.soa.org/resources/research-reports/2019/machine-learning-methods/)
+* Machine-Learning Methods for Insurance Applications
+* Group Long-Term Disability Jupyter File
+* Long-Term Care Jupyter File
+* [Group Long-Term Disability Data Set Comparison](file:///Users/Yu-Ying/Downloads/group-ltd-data-set.html)
+* Long-Term Care Data Set Comparison
 
 [ratemaking]
 - 作者有Bengio!!: Statistical Learning Algorithms Applied to Automobile Insurance Ratemaking [paper](https://www.iro.umontreal.ca/~vincentp/Publications/itii.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Statistical%20Learning%20Algorithms%20Applied%20to%20Automobile%20Insurance%20Ratemaking.md)
@@ -135,8 +148,9 @@ make a small twist from stat to ML/DL
 
 
 [loss]
-- [GRU] 2018 Actuarial Applications of Deep Learning_Loss Reserving and Beyond [slide](https://ibnr.netlify.com/#29) 可信度？？
-- 
+- [GRU] 2018 Actuarial Applications of Deep Learning_Loss Reserving and Beyond [slide](https://ibnr.netlify.com/#29) / [arxiv](https://arxiv.org/pdf/1804.09253.pdf) / [DeepTriangle_github_R](https://github.com/kevinykuo/deeptriangle)
+
+- KPMG: Learning to trust your digital actuary: New technologies can automate loss reserve analysis, providing insurers with more timely data and deeper insights [report](https://assets.kpmg/content/dam/kpmg/pdf/2016/07/learning-to-trust-your-digital-actuary.pdf)
 
 
 [Decentralize Insurance] \
