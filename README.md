@@ -122,10 +122,13 @@ make a small twist from stat to ML/DL
 
 #### AI in Insurance
 
-! [Potential Applications of ML/AI in Insurance](https://github.com/yingpublic/RMI-AI/blob/master/Potential_ml_on_insurance.png)
-
-
 [Back to top](#contents)
+
+![Potential Applications of ML/AI in Insurance](https://github.com/yingpublic/RMI-AI/blob/master/Potential_ml_on_insurance.png)
+Ref: Institute for SOA Faculty: Practical Application of Machine Learning Within Actuarial Work by Modelling, Analytics and Insights in Data working party
+
+
+
 SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](https://www.soa.org/resources/research-reports/2019/machine-learning-methods/)
 * Machine-Learning Methods for Insurance Applications
 * Group Long-Term Disability Jupyter File
@@ -147,6 +150,7 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 
 [Fraud Detection] Casualty Insurance face lots of fraud.
 
+- From Logistic Regression in SciKit-Learn to Deep Learning with TensorFlow – A fraud detection case study [Blog Part 1](https://ipythonquant.wordpress.com/2018/05/08/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-i/) / [Blog Part 2](https://ipythonquant.wordpress.com/2018/05/18/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-ii/) / [Github](https://github.com/mgroncki/IPythonScripts/blob/master/LogisticRegression_Part1.ipynb)
 - Top 10 Data Science Use Cases in Insurance [Article](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
 - 2018.07 AI IN P&C INSURANCE. Pragmatic Approaches for Today, Promise for Tomorrow. [reviews]() [pdf](https://capeanalytics.com/wp-content/uploads/2018/11/SMA-AI-in-PC-Insurance-2018.pdf) 
 
@@ -157,6 +161,9 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 
 - KPMG: Learning to trust your digital actuary: New technologies can automate loss reserve analysis, providing insurers with more timely data and deeper insights [report](https://assets.kpmg/content/dam/kpmg/pdf/2016/07/learning-to-trust-your-digital-actuary.pdf)
 
+
+[Actuarial Education]
+- Data Analytics in Actuarial Education [slide](file:///Users/Yu-Ying/Downloads/2017-atc-session-11.pdf)
 
 [Company]
 - Allianz's 
@@ -231,6 +238,7 @@ Credit Risk
 - [ML] 2017: ANALYSIS OF FINANCIAL CREDIT RISK USING MACHINE LEARNING [thesis](https://arxiv.org/pdf/1802.05326.pdf)
 
 Option Pricing:
+- [LSTM] 2018: Option hedging with Long-Short-Term-Memory Recurrent Neural Networks [Blog]() / [Deep Hedging Ref Paper](https://arxiv.org/abs/1802.03042) / [Github]()
 - [RL] 2018 Igor Halperin: Model-Free Option Pricing with Reinforcement Learning [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/IgorHalperin_Columbia_ML_in_finance_QLBS.pdf) / [coursera](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 - [RL] 2017 Igor Halperin: QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds [paper](https://arxiv.org/pdf/1712.04609v2.pdf)
 - [RL] 2017 Igor Halperin: Inverse Reinforcement Learning for Marketing [paper](https://arxiv.org/pdf/1712.04612v1.pdf)
@@ -266,16 +274,18 @@ Portfolio Management
 Stock Price Prediction
 - [QLearning] Q-Learning-for-Auto-Trading [Siraj's TY](https://www.youtube.com/watch?v=rRssY6FrTvU&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/Q-Learning-for-Trading)
 - [RL] Q-learning applied to (short-term) stock trading [Siraj YT](https://www.youtube.com/watch?v=05NqKJ0v7EE) / [Siraj's Github](https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction) / [Original Github](https://github.com/edwardhdlu/q-trader)
+- [GAN] 2018: Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets [paper](https://www.hindawi.com/journals/mpe/2018/4907423/)
 - [AttentionRNN] 2017: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (The Nonlinear autoregressive exogenous (NARX) model) [paper](https://arxiv.org/abs/1704.02971) / [Pytorch example blog](http://chandlerzuo.github.io/blog/2017/11/darnn) / [update Github](https://github.com/Seanny123/da-rnn) / [note]()
-- [DL] Financial Forecasting using Tensorflow.js [Siraj's YT](https://www.youtube.com/watch?v=5Uw1iSwvHH8) / [Siraj's Github](https://github.com/llSourcell/Financial_Forecasting_with_TensorflowJS)
 
-- [Keras+TF] How to Predict Stock Prices Easily - Intro to Deep Learning [Siraj's YT](https://www.youtube.com/watch?v=ftMq5ps503w&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo)
+- [Multi LSTM] Using multidimensional LSTM neural networks to create a forecast for Bitcoin price [blog](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price) / [Siraj's Github](https://github.com/llSourcell/Multidimensional-LSTM-BitCoin-Time-Series)
+- [LSTM] Bitcoin Prediction beat ARIMA [Siraj's YT](https://www.youtube.com/watch?v=EqWm8A-dRYg&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/bitcoin_prediction)
 - [CNN] Use Tensorflow to run CNN for predict stock movement [Siraj's Github](https://github.com/llSourcell/Tensorflow-for-stock-prediction)
+- [DL] Financial Forecasting using Tensorflow.js [Siraj's YT](https://www.youtube.com/watch?v=5Uw1iSwvHH8) / [Siraj's Github](https://github.com/llSourcell/Financial_Forecasting_with_TensorflowJS)
+- [Keras+TF] How to Predict Stock Prices Easily - Intro to Deep Learning [Siraj's YT](https://www.youtube.com/watch?v=ftMq5ps503w&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo)
 - [ML&Sentimental] Stock Market Prediction [Siraj's TY](https://www.youtube.com/watch?v=JuLCL3wCEAk&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/Stock_Market_Prediction)
 - [Keras] Predicting Stock Prices [Siraj's TY](https://www.youtube.com/watch?v=SSu00IRRraY&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/predicting_stock_prices)
 
-- [LSTM] Bitcoin Prediction beat ARIMA [Siraj's YT](https://www.youtube.com/watch?v=EqWm8A-dRYg&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/bitcoin_prediction)
-- [Multi LSTM] Using multidimensional LSTM neural networks to create a forecast for Bitcoin price [blog](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price) / [Siraj's Github](https://github.com/llSourcell/Multidimensional-LSTM-BitCoin-Time-Series)
+
 
 
 [Siraj's TY]() / [Siraj's Github]()
@@ -287,6 +297,9 @@ Fraud Detection
 Sentimental Analysis
 - [TF] Sentiment Analyzer on IMDB movie [Siraj's YT](https://www.youtube.com/watch?v=si8zZHkufRY&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/How_to_do_Sentiment_Analysis)
  
+ 
+Optimication/Decision Making
+- [RL] Adobe: Risk-averse Decision-making & Control [slide](http://www.cs.unh.edu/~mpetrik/tutorials/risk/riskaverse_rl.pdf)
 ===
 - FinBrain: When Finance Meets AI 2.0. [arxiv](https://arxiv.org/abs/1808.08497v1)
 - Deep Learning in Finance. [arxiv](https://arxiv.org/abs/1602.06561v3) - 2018
