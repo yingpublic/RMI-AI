@@ -153,6 +153,11 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 - KPMG: Learning to trust your digital actuary: New technologies can automate loss reserve analysis, providing insurers with more timely data and deeper insights [report](https://assets.kpmg/content/dam/kpmg/pdf/2016/07/learning-to-trust-your-digital-actuary.pdf)
 
 
+[Company]
+- Allianz's 
+> bot Allie, an online assistant available 24/7 to answer personal lines customers’ questions. It is also using machine learning to carry out risk assessments and support automated underwriting in the small- to medium-enterprise (SME) space.
+
+
 [Decentralize Insurance] \
 Decentralized Insurance Developer Conference 2017 [Playlist](https://www.youtube.com/playlist?list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO) (Bold is something I'm more interested in.) 
 - **Keynote: Decentralized Decision Making** [Video](https://www.youtube.com/watch?v=-j6Esc_Pm_I&index=2&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
@@ -235,6 +240,7 @@ Pricing:
 
 
 Portfolio Management
+- [AttentionRNN] 2017: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (The Nonlinear autoregressive exogenous (NARX) model) [paper](https://arxiv.org/abs/1704.02971) / [Pytorch example blog](http://chandlerzuo.github.io/blog/2017/11/darnn) / [update Github](https://github.com/Seanny123/da-rnn) / [note]()
 - [RL] 2015: A Comprehensive Survey on Safe Reinforcement Learning [paper](http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/A%20Comprehensive%20Survey%20on%20Safe%20Reinforcement%20Learning.md)
 - [RL] 2005/J of AI: Risk-Sensitive Reinforcement Learning Applied to Control under Constraints [paper](https://arxiv.org/pdf/1109.2147.pdf) [note]()
 - [RL-deepQ] Portfolio Management using Reinforcement Learning [paper](http://cs229.stanford.edu/proj2016/report/JinElSaawy-PortfolioManagementusingReinforcementLearning-report.pdf) [note]()
