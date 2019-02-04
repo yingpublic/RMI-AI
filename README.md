@@ -11,6 +11,8 @@
 - [AI in Risk Management](#ai-in-risk-management)
 - [AI in Insurance](#ai-in-insurance)
 - [Literature review](#literature-review)
+- [MLxDLxFinance Conference](#mlxdlxfinance-conference)
+- [Libraries](#libraries)
 - [Startups](#startups)
 - [Appendix](#appendix)
 
@@ -196,6 +198,16 @@ Survival Analysis:(relatively mature)
 - [DeepSurv package](https://github.com/jaredleekatzman/DeepSurv)
 - [SurvivalNet package](https://github.com/CancerDataScience/SurvivalNet)
 
+Claim Frequency 
+- [ML+R code] Data Science in Non-Life Insurance Pricing: Predicting Claims Frequencies using Tree-Based Models [thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Data%20Science%20in%20Non-Life%20Insurance%20Pricing:%20Predicting%20Claims%20Frequencies%20using%20Tree-Based%20Models.md) / [slide](https://people.math.ethz.ch/~wueth/Talks/2017_Geneva.pdf)
+
+
+Car Insurance
+- [CNN] SOA_2018: Applying Image Recognition to Insurance_driver behavior assessment [paper](https://www.soa.org/Files/resources/.../applying-image-recognition.pdf) 
+- [CNN] IBM_2017: DarNet: A Deep Learning Solution for Distracted Driving Detection [paper](http://cs.brown.edu/~tab/papers/middleware17.pdf)
+- [CNN] Using Convolutional Neural Networks to Perform Classification on State Farm Insurance Driver Images [paper](http://cs229.stanford.edu/proj2016spr/report/004.pdf)
+
+
 
 Market Risk Manegement:
 - [LSTM+stacked autoencoder] 2017: A deep learning framework for financial time series using stacked autoencoders and long-short term memory [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5510866/)
@@ -240,13 +252,36 @@ Pricing:
 
 
 Portfolio Management
-- [AttentionRNN] 2017: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (The Nonlinear autoregressive exogenous (NARX) model) [paper](https://arxiv.org/abs/1704.02971) / [Pytorch example blog](http://chandlerzuo.github.io/blog/2017/11/darnn) / [update Github](https://github.com/Seanny123/da-rnn) / [note]()
 - [RL] 2015: A Comprehensive Survey on Safe Reinforcement Learning [paper](http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/A%20Comprehensive%20Survey%20on%20Safe%20Reinforcement%20Learning.md)
 - [RL] 2005/J of AI: Risk-Sensitive Reinforcement Learning Applied to Control under Constraints [paper](https://arxiv.org/pdf/1109.2147.pdf) [note]()
 - [RL-deepQ] Portfolio Management using Reinforcement Learning [paper](http://cs229.stanford.edu/proj2016/report/JinElSaawy-PortfolioManagementusingReinforcementLearning-report.pdf) [note]()
 - [RL] 1996/ Use Of Neural Network Ensembles for Portfolio Selection and Risk Management
 
 
+Stock Price Prediction
+- [QLearning] Q-Learning-for-Auto-Trading [Siraj's TY](https://www.youtube.com/watch?v=rRssY6FrTvU&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/Q-Learning-for-Trading)
+- [RL] Q-learning applied to (short-term) stock trading [Siraj YT](https://www.youtube.com/watch?v=05NqKJ0v7EE) / [Siraj's Github](https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction) / [Original Github](https://github.com/edwardhdlu/q-trader)
+- [AttentionRNN] 2017: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (The Nonlinear autoregressive exogenous (NARX) model) [paper](https://arxiv.org/abs/1704.02971) / [Pytorch example blog](http://chandlerzuo.github.io/blog/2017/11/darnn) / [update Github](https://github.com/Seanny123/da-rnn) / [note]()
+- [DL] Financial Forecasting using Tensorflow.js [Siraj's YT](https://www.youtube.com/watch?v=5Uw1iSwvHH8) / [Siraj's Github](https://github.com/llSourcell/Financial_Forecasting_with_TensorflowJS)
+
+- [Keras+TF] How to Predict Stock Prices Easily - Intro to Deep Learning [Siraj's YT](https://www.youtube.com/watch?v=ftMq5ps503w&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo)
+- [CNN] Use Tensorflow to run CNN for predict stock movement [Siraj's Github](https://github.com/llSourcell/Tensorflow-for-stock-prediction)
+- [ML&Sentimental] Stock Market Prediction [Siraj's TY](https://www.youtube.com/watch?v=JuLCL3wCEAk&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/Stock_Market_Prediction)
+- [Keras] Predicting Stock Prices [Siraj's TY](https://www.youtube.com/watch?v=SSu00IRRraY&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/predicting_stock_prices)
+
+- [LSTM] Bitcoin Prediction beat ARIMA [Siraj's YT](https://www.youtube.com/watch?v=EqWm8A-dRYg&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/bitcoin_prediction)
+- [Multi LSTM] Using multidimensional LSTM neural networks to create a forecast for Bitcoin price [blog](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price) / [Siraj's Github](https://github.com/llSourcell/Multidimensional-LSTM-BitCoin-Time-Series)
+
+
+[Siraj's TY]() / [Siraj's Github]()
+
+Fraud Detection
+- Fraud Detection model based on anonymized credit card transactions [Siraj's YT](https://www.youtube.com/watch?v=UNgdIkuVC6g) / [Siraj's Github](https://github.com/llSourcell/AI_for_Financial_Data)
+- 
+
+Sentimental Analysis
+- [TF] Sentiment Analyzer on IMDB movie [Siraj's YT](https://www.youtube.com/watch?v=si8zZHkufRY&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/How_to_do_Sentiment_Analysis)
+ 
 ===
 - FinBrain: When Finance Meets AI 2.0. [arxiv](https://arxiv.org/abs/1808.08497v1)
 - Deep Learning in Finance. [arxiv](https://arxiv.org/abs/1602.06561v3) - 2018
@@ -297,9 +332,19 @@ Sentiment Analysis:
 - [Financial Aspect-Based Sentiment Analysis using Deep Representations](https://arxiv.org/abs/1808.07931v1)
 - [The Evolution of Sentiment Analysis - A Review of Research Topics, Venues, and Top Cited Papers](https://arxiv.org/abs/1612.01556v4)
 
+
+#### ML X DL X Finance Conference
+
+[2018] Machine Learning in Finance Workshop 2018 by The Data Science Institute (DSI) at Columbia University and Bloomberg [Web](https://cfe.columbia.edu/machine-learning-finance-workshop-2018)
+
+
+[Back to top](#mlxdlxfinance-conference)
+
 ----------
 
-#### Libraries
+#### Libraries 
+
+[Back to top](#libraries)
 
 - [ml-fraud-detection](https://github.com/georgymh/ml-fraud-detection)
 - [watson-banking-chatbot](https://github.com/IBM/watson-banking-chatbot)
