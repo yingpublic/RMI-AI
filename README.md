@@ -253,6 +253,7 @@ Pricing:
 
 
 Portfolio Management
+- [RL Model Free] 2017: A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem (Crypto) [paper](https://arxiv.org/pdf/1706.10059.pdf)
 - [RL] 2015: A Comprehensive Survey on Safe Reinforcement Learning [paper](http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/A%20Comprehensive%20Survey%20on%20Safe%20Reinforcement%20Learning.md)
 - [RL] 2005/J of AI: Risk-Sensitive Reinforcement Learning Applied to Control under Constraints [paper](https://arxiv.org/pdf/1109.2147.pdf) [note]()
 - [RL-deepQ] Portfolio Management using Reinforcement Learning [paper](http://cs229.stanford.edu/proj2016/report/JinElSaawy-PortfolioManagementusingReinforcementLearning-report.pdf) [note]()
@@ -340,7 +341,8 @@ Sentiment Analysis:
 
 
 [2018] Machine Learning in Finance Workshop 2018 by The Data Science Institute (DSI) at Columbia University and Bloomberg [Web](https://cfe.columbia.edu/machine-learning-finance-workshop-2018)
-
+* A High Frequency Trade Execution Model for Supervised Learning [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/MathewDixon_HFT_MM_Columbia_Bloomberg.pdf)
+* Big Data's Dirty Secret [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/HarveyStein_BigDataSecretShort.pdf)
 
 
 
