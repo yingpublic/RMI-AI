@@ -122,6 +122,9 @@ make a small twist from stat to ML/DL
 
 #### AI in Insurance
 
+! [Potential Applications of ML/AI in Insurance](https://github.com/yingpublic/RMI-AI/blob/master/Potential_ml_on_insurance.png)
+
+
 [Back to top](#contents)
 SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](https://www.soa.org/resources/research-reports/2019/machine-learning-methods/)
 * Machine-Learning Methods for Insurance Applications
