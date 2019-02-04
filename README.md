@@ -124,10 +124,12 @@ make a small twist from stat to ML/DL
 
 [Back to top](#contents)
 
-![Potential Applications of ML/AI in Insurance](https://github.com/yingpublic/RMI-AI/blob/master/Potential_ml_on_insurance.png)
+* Potential Applications of ML/AI in Insurance
+<img src="https://github.com/yingpublic/RMI-AI/blob/master/ref_image/Potential_ml_on_insurance.png" width="800">
 Ref: Institute for SOA Faculty: Practical Application of Machine Learning Within Actuarial Work by Modelling, Analytics and Insights in Data working party
 
-
+* ML/DL in terms of different insurance
+<img src="https://github.com/yingpublic/RMI-AI/blob/master/ref_image/ML_in_4diff_insurance.png" width="800">
 
 SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](https://www.soa.org/resources/research-reports/2019/machine-learning-methods/)
 * Machine-Learning Methods for Insurance Applications
@@ -138,6 +140,9 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 
 [ratemaking]
 - 作者有Bengio!!: Statistical Learning Algorithms Applied to Automobile Insurance Ratemaking [paper](https://www.iro.umontreal.ca/~vincentp/Publications/itii.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Statistical%20Learning%20Algorithms%20Applied%20to%20Automobile%20Insurance%20Ratemaking.md)
+- 2016: Insurance Premium Prediction via Gradient Tree-Boosted Tweedie Compound Poisson Models [paper](https://arxiv.org/pdf/1508.06378.pdf)
+- Machine Learning – Applications to Insurance Pricing [article](https://www.luxactuaries.com/machine-learning-applications-insurance-pricing/)
+- AXA: Using machine learning for insurance pricing optimization [news](https://cloud.google.com/blog/products/gcp/using-machine-learning-for-insurance-pricing-optimization)
 
 
 [parameter estimation]
@@ -200,7 +205,8 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 [Back to top](#contents)
 
 BirdView for Risk Management:
-- AI and Machine Learning for Risk Management [paper](https://www.garp.org/#!/risk-intelligence/all/all/a1Z1W000004AoB1UAK)
+- AI and Machine Learning for Risk Management [paper](https://poseidon01.ssrn.com/delivery.php?ID=382022091086004002100075096118111027029011095077058037071002077109066120104092065024048096036099043030006119122008105071077088040066043048077004064084065086102073002028005026010021068021110005121007093092067120026125084087126065004027024088113107127&EXT=pdf)
+- Overview and Practical Application of Machine Learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf)
 - Accenture(consulting): Validating Machine Learning and AI Models in Financial [report](https://www.accenture.com/t20180427T082714Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/MainPages/Documents/Global/Accenture-Emerging-Trends-in-the-Validation-of-ML-and-AI-Models.pdf)
 
 Survival Analysis:(relatively mature)
