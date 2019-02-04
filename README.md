@@ -11,7 +11,7 @@
 - [AI in Risk Management](#ai-in-risk-management)
 - [AI in Insurance](#ai-in-insurance)
 - [Literature review](#literature-review)
-- [MLxDLxFinance Conference](#mlxdlxfinance-conference)
+- [ML DL Finance Conference](#ml-dl-finance-conference)
 - [Libraries](#libraries)
 - [Startups](#startups)
 - [Appendix](#appendix)
@@ -183,6 +183,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 ----------
 
+
 #### Literature review
 
 
@@ -333,18 +334,21 @@ Sentiment Analysis:
 - [The Evolution of Sentiment Analysis - A Review of Research Topics, Venues, and Top Cited Papers](https://arxiv.org/abs/1612.01556v4)
 
 
-#### ML X DL X Finance Conference
+#### ML DL Finance Conference
+
+[Back to top](#contents)
+
 
 [2018] Machine Learning in Finance Workshop 2018 by The Data Science Institute (DSI) at Columbia University and Bloomberg [Web](https://cfe.columbia.edu/machine-learning-finance-workshop-2018)
 
 
-[Back to top](#mlxdlxfinance-conference)
+
 
 ----------
 
 #### Libraries 
 
-[Back to top](#libraries)
+[Back to top](#contents)
 
 - [ml-fraud-detection](https://github.com/georgymh/ml-fraud-detection)
 - [watson-banking-chatbot](https://github.com/IBM/watson-banking-chatbot)
