@@ -124,6 +124,12 @@ make a small twist from stat to ML/DL
 
 [Back to top](#contents)
 
+* Insurance 2030—The impact of AI on the future of insurance [note](https://github.com/yingpublic/RMI-AI/blob/master/review/industry/Insurance%202030_The%20impact%20of%20AI%20on%20the%20future%20of%20insurance.md)
+
+* Potential AI value in Insurance Supply Chain (by McKinsey 2017) [report starting p.30](https://www2.deloitte.com/content/dam/Deloitte/xe/Documents/financial-services/Artificial-Intelligence-in-Insurance.pdf)
+<img src="https://github.com/yingpublic/RMI-AI/blob/master/ref_image/Potential_AI_Insurance_supply_chain.png" width="900">
+<img src="https://github.com/yingpublic/RMI-AI/blob/master/ref_image/Potential_AI_Insurance_supply_chain_2.png" width="900">
+
 * Potential Applications of ML/AI in Insurance
 <img src="https://github.com/yingpublic/RMI-AI/blob/master/ref_image/Potential_ml_on_insurance.png" width="800">
 Ref: Institute for SOA Faculty: Practical Application of Machine Learning Within Actuarial Work by Modelling, Analytics and Insights in Data working party
