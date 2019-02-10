@@ -11,6 +11,7 @@
 - [AI in Risk Management](#ai-in-risk-management)
 - [AI in Insurance](#ai-in-insurance)
 - [Literature review](#literature-review)
+- [Actuarial Science Program Worldwide](#Actuarial-Science-Program-Worldwide)
 - [ML DL Finance Conference](#ml-dl-finance-conference)
 - [Libraries](#libraries)
 - [Startups](#startups)
@@ -300,8 +301,6 @@ Stock Price Prediction
 
 
 
-[Siraj's TY]() / [Siraj's Github]()
-
 Fraud Detection
 - Fraud Detection model based on anonymized credit card transactions [Siraj's YT](https://www.youtube.com/watch?v=UNgdIkuVC6g) / [Siraj's Github](https://github.com/llSourcell/AI_for_Financial_Data)
 - 
@@ -363,9 +362,114 @@ Sentiment Analysis:
 - [The Evolution of Sentiment Analysis - A Review of Research Topics, Venues, and Top Cited Papers](https://arxiv.org/abs/1612.01556v4)
 
 
+
+#### Actuarial Science Program Worldwide
+
+[Back to top](#contents)
+
+1. ETH Zurich / Department of Math / RiskLab Switzerland [Course](http://www.risklab.ch/education/courses.html)
+
+
+
+#### Australia / RiskLab 
+
+PhD Research Projects [link](https://research.csiro.au/risklab/phd-research-projects/)
+1. PhD Project: Simulation-based stochastic control for portfolio management
+2. PhD Project: Long-term decision making under uncertainty for sustainable life-cycle retirement management
+3. PhD Project: Cyber security (analysis and evaluation)
+4. **PhD Project: Cyber security (model and product design)
+* Develop a quantitative pricing model for cyber-insurance. 
+* Develop a model for determining resource allocations to combat cyber-crime.
+5. **PhD Project: Non-Linear Least Square Monte-Carlo Algorithms
+6. PhD Project: Local Volatility Inference through Optimal Transport
+7. **PhD Project: Statistical analysis and visualisation of spatially distributed big time series electricity usage data
+* Cognostics methods for electricity usage time series data with spatial and spatio-temporal structure.
+* Develop visualisation methods for spatial and spatio-temporal cognostics for spatially distributed big time series.
+* Develop inferential methods for spatially distributed large time series electricity usage data. 
+8. PhD Project: Statistical analysis of big time series electricity usage data
+* Develop scalable method to analyse a large number of time series. 
+* Extend the scalable method developed to analyse a large number of time series to work in real-time or near real-time.
+9. PhD Project: Optimal retirement age for a sustainable superannuation system
+10. **PhD Project: Managing and modeling longevity risk in the 21st century
+11. PhD Project: Alternative stochastic models in Finance
+12. PhD Project: Health of an ageing population
+13. **PhD Project: Designing a method to hedge European (social) welfare risk
+* The identification and  modelling  of causes of  increased  welfare  costs (retirement costs, unemployment costs, disability costs etc).
+* The design of a bond like product that will smooth those costs by transferring some of the risk from individual countries to the issuer of the European bond (e.g. the European central bank).
+14. PhD Project: Solving Portfolio Selection Problems under Gaussian Process
+15. **PhD Project:  Contribution of real option to sustainable agriculture
+16. **PhD Project:  Conditional Phase – Type Model in Pension and Health Insurance Premium Calculations
+17. **PhD Project:  Real time car insurance for the New Age [Allianz](https://www.allianz.com.au/car-insurance/news/use-of-telematics-in-vehicles)
+18. PhD Project:  Assessing the Real Option Approach for Mining projects
+19. **PhD Project:  Pricing in a competitive stochastic insurance market
+20. **PhD Project:  The impact of climate change in pricing reserve in a competitive insurance market
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RiskLab Switzerland
+
+RiskLab  Germany
+
+RiskLab Finland
+
+RiskLab Toronto
+
+RiskLab Madrid
+
+
 #### ML DL Finance Conference
 
 [Back to top](#contents)
+
+
+[2019/June/Switzerland] Insurance Data Science Conference [Web](https://insurancedatascience.org)
+[2018/London] Insurance Data Science Conference [Web](https://insurancedatascience.org/project/london2018/)
+[2017/Paris] R in Insurance [Web](https://insurancedatascience.org/project/paris2017/)
+[2016/London] R in Insurance [Web](https://insurancedatascience.org/project/london2016/)
+[2015/AMSTERDAM] R in Insurance [Web](https://insurancedatascience.org/project/amsterdam2015/)
+[2014/London] R in Insurance [Web](https://insurancedatascience.org/project/london2014/)
+[2013/London] R in Insurance [Web](https://insurancedatascience.org/project/london2013/)
+
+--
+
+[2019/ETH Zurich] Risk Day 2019 [Web]()
+[2018/ETH Zurich] Risk Day 2018 [Web](https://www.math.ethz.ch/imsf/events/risk-day/past-risk-days/programme.html#gonon-abstract)
+* AI in risk management and risk management in AI [slide](https://www.ethz.ch/content/dam/ethz/special-interest/math/risklab-dam/documents/Risk%20Day/2018/Flueckiger.pdf)
+* Hedging derivatives under market frictions using deep learning techniques [slide](https://www.ethz.ch/content/dam/ethz/special-interest/math/risklab-dam/documents/Risk%20Day/2018/Gonon.pdf)
+[2017/ETH Zurich] Risk Day 2017 [Web](http://ccfz.ch/events/past-events/ccfz15092017.html)
+* Machine learning in mortality modeling [slide](http://www.ccfz.ch/files/deprez.pdf)
+[2016/ETH Zurich] Risk Day 2016 [Web](http://ccfz.ch/events/forthcoming-events/ccfz16092016.html)
+[2015/ETH Zurich] Risk Day 2015 [Web](http://www.ccfz.ch/events/forthcoming-events/ccfz11092015.html)
+* Insurance-Linked Securities [slide](http://www.ccfz.ch/files/5_muraviev.pdf)
+* Risk models in practice: The view of a non-mathematician[slide](http://www.ccfz.ch/files/6_giger.pdf)
+[2014/ETH Zurich] Risk Day 2014 [Web](http://www.ccfz.ch/events/past-events/ccfz12092014.html)
+* 20 years of RiskLab [slide](http://www.ccfz.ch/files/1_embrechts_2.pdf)
+[2013/ETH Zurich] Risk Day 2013 [Web]()
+
+-- 
+
+
+
+
+
+
+
+
 
 
 [2018] Machine Learning in Finance Workshop 2018 by The Data Science Institute (DSI) at Columbia University and Bloomberg [Web](https://cfe.columbia.edu/machine-learning-finance-workshop-2018)
