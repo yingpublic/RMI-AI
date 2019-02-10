@@ -11,7 +11,8 @@
 - [AI in Risk Management](#ai-in-risk-management)
 - [AI in Insurance](#ai-in-insurance)
 - [Literature review](#literature-review)
-- [Actuarial Science Program Worldwide](#Actuarial-Science-Program-Worldwide)
+- [Literature ML Finance focused](#literature-mL-finance-focused)
+- [Actuarial Science Program Worldwide](#actuarial-science-program-worldwide)
 - [ML DL Finance Conference](#ml-dl-finance-conference)
 - [Libraries](#libraries)
 - [Startups](#startups)
@@ -60,6 +61,7 @@ Finance data property w.r.t. Deep Learning
 
 [Back to top](#contents)
 
+* How America’s Top 4 Insurance Companies are Using Machine Learning [article](https://emerj.com/ai-sector-overviews/machine-learning-at-insurance-companies/)
 
 
 
@@ -145,6 +147,10 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 * [Group Long-Term Disability Data Set Comparison](file:///Users/Yu-Ying/Downloads/group-ltd-data-set.html)
 * Long-Term Care Data Set Comparison
 
+
+
+
+
 [ratemaking]
 - 作者有Bengio!!: Statistical Learning Algorithms Applied to Automobile Insurance Ratemaking [paper](https://www.iro.umontreal.ca/~vincentp/Publications/itii.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Statistical%20Learning%20Algorithms%20Applied%20to%20Automobile%20Insurance%20Ratemaking.md)
 - 2016: Insurance Premium Prediction via Gradient Tree-Boosted Tweedie Compound Poisson Models [paper](https://arxiv.org/pdf/1508.06378.pdf)
@@ -215,6 +221,8 @@ BirdView for Risk Management:
 - AI and Machine Learning for Risk Management [paper](https://poseidon01.ssrn.com/delivery.php?ID=382022091086004002100075096118111027029011095077058037071002077109066120104092065024048096036099043030006119122008105071077088040066043048077004064084065086102073002028005026010021068021110005121007093092067120026125084087126065004027024088113107127&EXT=pdf)
 - Overview and Practical Application of Machine Learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf)
 - Accenture(consulting): Validating Machine Learning and AI Models in Financial [report](https://www.accenture.com/t20180427T082714Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/MainPages/Documents/Global/Accenture-Emerging-Trends-in-the-Validation-of-ML-and-AI-Models.pdf)
+- Reinforcement learning in financial markets - a survey [paper](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf)
+
 
 Survival Analysis:(relatively mature)
 - [ML] 2017: Machine Learning for Survival Analysis: A Survey [paper](https://arxiv.org/pdf/1708.04649.pdf)
@@ -240,6 +248,9 @@ Market Risk Manegement:
 - [GAN/LSTM/CNN] Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets [paper](https://www.hindawi.com/journals/mpe/2018/4907423/)
 - [RL] RISK-AVERSE DISTRIBUTIONAL REINFORCEMENT LEARNING: a cvar optimization approach [master thesis](https://dspace.cvut.cz/bitstream/handle/10467/76432/F3-DP-2018-Stanko-Silvestr-thesis.pdf)
 
+
+
+
 Mortgage Risk
 - [DL] 2015: Deep Learning for Mortgage Risk [paper](https://stanford.app.box.com/s/0iqyz2zt82uvqjb5cn8tskxxe7m0i0zo)
 
@@ -249,6 +260,11 @@ Credit Risk
 - [DL] Credit Card Default Prediction Using TensorFlow (Part-1 Deep Neural Networks) [medium](https://medium.com/@Saadism/credit-card-default-prediction-using-tensorflow-part-1-deep-neural-networks-ef22cfd4d278)
 - [ML] 2018: Ensemble Learning or Deep Learning? Application to Default risk analysis. [student's paper in TW data](http://www.econ.kobe-u.ac.jp/RePEc/koe/wpaper/2018/1802.pdf)
 - [ML] 2017: ANALYSIS OF FINANCIAL CREDIT RISK USING MACHINE LEARNING [thesis](https://arxiv.org/pdf/1802.05326.pdf)
+
+
+Risk Attitude
+- [2018] Eye-Tracking and Economic Theories of Choice Under Risk [paper](https://cear.gsu.edu/files/2018/12/WP_2018_06_Eye-Tracking-and-Economic-Theories-of-Choice-Under-Risk_2018_1204.pdf)
+
 
 Option Pricing:
 - [LSTM] 2018: Option hedging with Long-Short-Term-Memory Recurrent Neural Networks [Blog]() / [Deep Hedging Ref Paper](https://arxiv.org/abs/1802.03042) / [Github]()
@@ -303,7 +319,20 @@ Stock Price Prediction
 
 Fraud Detection
 - Fraud Detection model based on anonymized credit card transactions [Siraj's YT](https://www.youtube.com/watch?v=UNgdIkuVC6g) / [Siraj's Github](https://github.com/llSourcell/AI_for_Financial_Data)
-- 
+- [One-Class Adversarial Nets for Fraud Detection](https://arxiv.org/pdf/1803.01798.pdf)
+- [Detection of Anomalies in Large-Scale
+Accounting Data using Deep Autoencoder
+Networks](https://arxiv.org/pdf/1709.05254.pdf)
+- [Bypass Fraud Detection:
+Artificial Intelligence Approach](https://arxiv.org/ftp/arxiv/papers/1711/1711.04627.pdf)
+- [Transaction Fraud Detection Using GRU-centered Sandwich-structured Model](https://arxiv.org/ftp/arxiv/papers/1711/1711.01434.pdf)
+- [Opinion Fraud Detection via Neural Autoencoder Decision Forest](https://arxiv.org/pdf/1805.03379.pdf)
+- [Instance-Level Explanations for Fraud Detection: A Case Study](https://arxiv.org/abs/1806.07129)
+- [A Comprehensive Survey of
+Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1009/1009.6119.pdf)
+- [Streaming Active Learning Strategies for Real-Life Credit Card Fraud Detection: Assessment and Visualization](https://arxiv.org/abs/1804.07481)
+- [Sequential Behavioral Data Processing Using Deep Learning and the Markov Transition Field in Online Fraud Detection](https://arxiv.org/abs/1808.05329v1)
+- [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
 
 Sentimental Analysis
 - [TF] Sentiment Analyzer on IMDB movie [Siraj's YT](https://www.youtube.com/watch?v=si8zZHkufRY&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/How_to_do_Sentiment_Analysis)
@@ -323,24 +352,6 @@ Optimication/Decision Making
 - Identifying Metaphoric Antonyms in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3139v2) - 2013
 - Good Debt or Bad Debt: Detecting Semantic Orientations in Economic Texts. [arxiv](https://arxiv.org/abs/1307.5336v2) - 2013
 - Identifying Metaphor Hierarchies in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3138v1) - 2012
-
-
-Fraud detection:
-
-- [One-Class Adversarial Nets for Fraud Detection](https://arxiv.org/pdf/1803.01798.pdf)
-- [Detection of Anomalies in Large-Scale
-Accounting Data using Deep Autoencoder
-Networks](https://arxiv.org/pdf/1709.05254.pdf)
-- [Bypass Fraud Detection:
-Artificial Intelligence Approach](https://arxiv.org/ftp/arxiv/papers/1711/1711.04627.pdf)
-- [Transaction Fraud Detection Using GRU-centered Sandwich-structured Model](https://arxiv.org/ftp/arxiv/papers/1711/1711.01434.pdf)
-- [Opinion Fraud Detection via Neural Autoencoder Decision Forest](https://arxiv.org/pdf/1805.03379.pdf)
-- [Instance-Level Explanations for Fraud Detection: A Case Study](https://arxiv.org/abs/1806.07129)
-- [A Comprehensive Survey of
-Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1009/1009.6119.pdf)
-- [Streaming Active Learning Strategies for Real-Life Credit Card Fraud Detection: Assessment and Visualization](https://arxiv.org/abs/1804.07481)
-- [Sequential Behavioral Data Processing Using Deep Learning and the Markov Transition Field in Online Fraud Detection](https://arxiv.org/abs/1808.05329v1)
-- [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
 
 
 Credit scoring:
@@ -363,11 +374,44 @@ Sentiment Analysis:
 
 
 
+#### Literature ML Finance focused
+
+[Back to top](#contents)
+
+1. Neurocomputing - Machine learning in finance [link](https://www.sciencedirect.com/journal/neurocomputing/vol/264/suppl/C)
+* Stock portfolio selection using learning-to-rank algorithms with news sentiment
+* Twitter data models for bank risk contagion
+* Bank distress in the news: Describing events through deep learning
+
+2. Advances in Financial Machine Learning [book](https://books.google.com/books?id=v0RKDwAAQBAJ&pg=PT77&lpg=PT77&dq=Neurocomputing+-+Machine+learning+in+finance&source=bl&ots=X0V2K9SMsz&sig=ACfU3U33MJYhIP1AicdPX-bxbDtYbLUWRw&hl=zh-TW&sa=X&ved=2ahUKEwjLyu6EqLDgAhUGPa0KHVKNCMsQ6AEwCnoECAoQAQ#v=onepage&q=Neurocomputing%20-%20Machine%20learning%20in%20finance&f=false)
+
+
+
+
 #### Actuarial Science Program Worldwide
 
 [Back to top](#contents)
 
-1. ETH Zurich / Department of Math / RiskLab Switzerland [Course](http://www.risklab.ch/education/courses.html)
+1. ETH Zurich / Department of Math / RiskLab Switzerland [Course](http://www.risklab.ch/education/courses.html) 強
+2. RiskLab Finland [website](https://risklab.fi/)
+3. The School of Risk & Actuarial Studies at UNSW Sydney [Course](https://www.business.unsw.edu.au/degrees-courses/postgraduate) 還好
+4. UIUC University of Illinois at Urbana-Champaign, Department of Mathematics, Actuarial Program [Facultyx3](https://math.illinois.edu/research/faculty-research/actuarial-science)
+5. GSU CEAR Georgia State University / Center for the Economics Analysis of Risk [Lots of Conference](https://cear.gsu.edu/working-papers/) Department of Risk Management and Insurance 
+6. UNSW University of New South Wales, Australia The School of Risk & Actuarial Studies
+Focus on AIPAR (Australian Institute for Population Ageing and Research) and the Centre of Excellence in Population Ageing and Research (CEPAR).
+7. Wisconsin University of Wisconsin–Madison
+
+
+The University of Melbourne
+Laval University, Canada
+The University of Hong Kong
+University of Waterloo, Canada
+University of Iowa
+
+
+EBOOK
+- 2018 [An Introduction to Computational Risk Management of Equity-Linked Insurance](https://www.readcube.com/articles/10.1201%2F9781315151687?shared_access_token=llN13LeTubXYwWnRseViDcvVM4Hs7mp6nzCJVzl2VoUrNp4f8MGH1nnddg1N7UKIPYjEPrfO6f890wTSQfnuRLKX4x_O7YRYGJCHdJDVbfvWvk3YXr_rFmwzLaVqOuaeAPrZnkDTWbW7LLF6EXnDtE43yPy_Ugl-XKLgmIGatFY%3D)
+
 
 
 
@@ -377,12 +421,12 @@ PhD Research Projects [link](https://research.csiro.au/risklab/phd-research-proj
 1. PhD Project: Simulation-based stochastic control for portfolio management
 2. PhD Project: Long-term decision making under uncertainty for sustainable life-cycle retirement management
 3. PhD Project: Cyber security (analysis and evaluation)
-4. **PhD Project: Cyber security (model and product design)
+4. **PhD Project: Cyber security (model and product design)**
 * Develop a quantitative pricing model for cyber-insurance. 
 * Develop a model for determining resource allocations to combat cyber-crime.
-5. **PhD Project: Non-Linear Least Square Monte-Carlo Algorithms
+5. **PhD Project: Non-Linear Least Square Monte-Carlo Algorithms**
 6. PhD Project: Local Volatility Inference through Optimal Transport
-7. **PhD Project: Statistical analysis and visualisation of spatially distributed big time series electricity usage data
+7. **PhD Project: Statistical analysis and visualisation of spatially distributed big time series electricity usage data**
 * Cognostics methods for electricity usage time series data with spatial and spatio-temporal structure.
 * Develop visualisation methods for spatial and spatio-temporal cognostics for spatially distributed big time series.
 * Develop inferential methods for spatially distributed large time series electricity usage data. 
@@ -390,19 +434,19 @@ PhD Research Projects [link](https://research.csiro.au/risklab/phd-research-proj
 * Develop scalable method to analyse a large number of time series. 
 * Extend the scalable method developed to analyse a large number of time series to work in real-time or near real-time.
 9. PhD Project: Optimal retirement age for a sustainable superannuation system
-10. **PhD Project: Managing and modeling longevity risk in the 21st century
+10. **PhD Project: Managing and modeling longevity risk in the 21st century**
 11. PhD Project: Alternative stochastic models in Finance
 12. PhD Project: Health of an ageing population
-13. **PhD Project: Designing a method to hedge European (social) welfare risk
+13. **PhD Project: Designing a method to hedge European (social) welfare risk**
 * The identification and  modelling  of causes of  increased  welfare  costs (retirement costs, unemployment costs, disability costs etc).
 * The design of a bond like product that will smooth those costs by transferring some of the risk from individual countries to the issuer of the European bond (e.g. the European central bank).
 14. PhD Project: Solving Portfolio Selection Problems under Gaussian Process
-15. **PhD Project:  Contribution of real option to sustainable agriculture
-16. **PhD Project:  Conditional Phase – Type Model in Pension and Health Insurance Premium Calculations
-17. **PhD Project:  Real time car insurance for the New Age [Allianz](https://www.allianz.com.au/car-insurance/news/use-of-telematics-in-vehicles)
+15. **PhD Project:  Contribution of real option to sustainable agriculture**
+16. **PhD Project:  Conditional Phase – Type Model in Pension and Health Insurance Premium Calculations**
+17. **PhD Project:  Real time car insurance for the New Age** [Allianz](https://www.allianz.com.au/car-insurance/news/use-of-telematics-in-vehicles)
 18. PhD Project:  Assessing the Real Option Approach for Mining projects
-19. **PhD Project:  Pricing in a competitive stochastic insurance market
-20. **PhD Project:  The impact of climate change in pricing reserve in a competitive insurance market
+19. **PhD Project:  Pricing in a competitive stochastic insurance market**
+20. **PhD Project:  The impact of climate change in pricing reserve in a competitive insurance market**
 
 
 
@@ -421,9 +465,7 @@ PhD Research Projects [link](https://research.csiro.au/risklab/phd-research-proj
 
 
 
-RiskLab Switzerland
 
-RiskLab  Germany
 
 RiskLab Finland
 
@@ -436,6 +478,18 @@ RiskLab Madrid
 
 [Back to top](#contents)
 
+--
+
+Sponsored by SOA already 50+ years
+2018 Actuarial Research Conference [program](https://conference.uwo.ca/arc2018/program_schedule.pdf)
+
+--
+
+Sponsered by UNSW
+[2018] 22nd International Congress on Insurance: Mathematics and Economics [Web](https://www.business.unsw.edu.au/Campaigns/IME2018) [program](https://www.business.unsw.edu.au/Campaigns-Site/IME2018/Documents/program-schedule.pdf)
+
+
+--
 
 [2019/June/Switzerland] Insurance Data Science Conference [Web](https://insurancedatascience.org)
 [2018/London] Insurance Data Science Conference [Web](https://insurancedatascience.org/project/london2018/)
@@ -447,6 +501,7 @@ RiskLab Madrid
 
 --
 
+Sponsered by ETH Zurich
 [2019/ETH Zurich] Risk Day 2019 [Web]()
 [2018/ETH Zurich] Risk Day 2018 [Web](https://www.math.ethz.ch/imsf/events/risk-day/past-risk-days/programme.html#gonon-abstract)
 * AI in risk management and risk management in AI [slide](https://www.ethz.ch/content/dam/ethz/special-interest/math/risklab-dam/documents/Risk%20Day/2018/Flueckiger.pdf)
@@ -461,21 +516,47 @@ RiskLab Madrid
 * 20 years of RiskLab [slide](http://www.ccfz.ch/files/1_embrechts_2.pdf)
 [2013/ETH Zurich] Risk Day 2013 [Web]()
 
+
 -- 
 
+Sponsered by GSU CEAR
+GSU CEAR [Archieved Conference](https://cear.gsu.edu/archived-workshops/?wpv_aux_current_post_id=3193&wpv_view_count=11499-TCPID3193&wpv_paged=3#) 好像還好？
+* 2019 CEAR/Huebner Summer Risk Institute
+* Welfare, Preferences, and Risk: Theory, Behavioural Evidence, and Policy
+* Georgia State FinTech Conference 2019
+* The Chicago School and Research Related to Organizational and Market Risk, a 50-Year Perspective
+* Behavioral and Experimental Public Choice Workshop 2019
+* 6th Workshop in Behavioral and Experimental Health Economics
+* CEAR/MRIC Behavioral Insurance Workshop 2018
 
+-- 
 
-
-
-
-
-
-
-
+Sponsered by Columbia
 [2018] Machine Learning in Finance Workshop 2018 by The Data Science Institute (DSI) at Columbia University and Bloomberg [Web](https://cfe.columbia.edu/machine-learning-finance-workshop-2018)
 * A High Frequency Trade Execution Model for Supervised Learning [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/MathewDixon_HFT_MM_Columbia_Bloomberg.pdf)
 * Big Data's Dirty Secret [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/HarveyStein_BigDataSecretShort.pdf)
 
+--
+
+Sponsered by Finland RiskLab
+Conference run by Finland RiskLab [web](https://risklab.fi/events/)
+* 2019 RiskLab/BoF/ESRB Conference on Systemic Risk Analytics
+* 2018 RiskLab/BoF/ESRB Conference on Systemic Risk Analytics
+* 2018 Special session on Machine Learning and Network Analytics in Finance
+* 2017 RiskLab/BoF/ESRB Conference on Systemic Risk Analytics
+* 2017 Special session on Machine Learning and Network Analytics in Finance
+* Special session on Systemic Financial Risk Analytics
+* 2016 RiskLab/BoF/ESRB Conference on Systemic Risk Analytics
+* Special session on Systemic Risk Analytics
+* Special session on Systemic Risk Analytics
+* 2015 RiskLab/BoF/ESRB Conference on Systemic Risk Analytics
+* Special session on Systemic Risk Analytics and Macroprudential Policy
+Session on Systemic Risk Analytics and Macroprudential Policy
+
+--
+
+International Gerber-Shiu Workshop
+Actuarial Research Conference
 
 
 ----------
