@@ -190,6 +190,7 @@ Machine Learning for Actuaries [ppt](https://www.actuaries.org.uk/documents/mach
 #### [Actuarial Education]
 - Data Analytics in Actuarial Education [slide](file:///Users/Yu-Ying/Downloads/2017-atc-session-11.pdf)
 - Data mining techniques for actuaries: an overview [slide](https://uwaterloo.ca/advances-in-predictive-analytics/sites/ca.advances-in-predictive-analytics/files/uploads/files/emiliano_valdez.pdf)
+- https://www.jstor.org/stable/3182781?seq=1#page_scan_tab_contents [report](https://www.jstor.org/stable/3182781?seq=1#page_scan_tab_contents)
 
 #### [Company]
 - Allianz's 
@@ -227,6 +228,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 #### BirdView for Risk Management:
 - AI and Machine Learning for Risk Management [paper](https://poseidon01.ssrn.com/delivery.php?ID=382022091086004002100075096118111027029011095077058037071002077109066120104092065024048096036099043030006119122008105071077088040066043048077004064084065086102073002028005026010021068021110005121007093092067120026125084087126065004027024088113107127&EXT=pdf)
+- Artificial intelligence, financial risk management and systemic risk [paper](http://www.systemicrisk.ac.uk/sites/default/files/downloads/publications/SP13.pdf)
 - Overview and Practical Application of Machine Learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf)
 - Accenture(consulting): Validating Machine Learning and AI Models in Financial [report](https://www.accenture.com/t20180427T082714Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/MainPages/Documents/Global/Accenture-Emerging-Trends-in-the-Validation-of-ML-and-AI-Models.pdf)
 - [RL] Reinforcement learning in financial markets - a survey [paper](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf)
@@ -377,6 +379,8 @@ Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1
 - [Sequential Behavioral Data Processing Using Deep Learning and the Markov Transition Field in Online Fraud Detection](https://arxiv.org/abs/1808.05329v1)
 - [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
 - 2016: Pridit is a Useful Technique for Detecting Consumer Fraud When No Training Sample Is Available
+- 2003 Review: Statistical Fraud Detection: A Review [paper](https://www.jstor.org/stable/3182781?seq=1#page_scan_tab_contents)
+
 
 
 #### Sentimental Analysis
