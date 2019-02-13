@@ -127,6 +127,8 @@ make a small twist from stat to ML/DL
 
 [Back to top](#contents)
 
+* [AAA_AMERICAN ACADEMY OF ACTUARIES]: 2018: BIG DATA AND THE ROLE OF THE ACTUARY [report](https://www.actuary.org/files/publications/BigDataAndTheRoleOfTheActuary.pdf) 看看看！ 
+
 * Insurance 2030—The impact of AI on the future of insurance [note](https://github.com/yingpublic/RMI-AI/blob/master/review/industry/Insurance%202030_The%20impact%20of%20AI%20on%20the%20future%20of%20insurance.md)
 
 * Potential AI value in Insurance Supply Chain (by McKinsey 2017) [report starting p.30](https://www2.deloitte.com/content/dam/Deloitte/xe/Documents/financial-services/Artificial-Intelligence-in-Insurance.pdf)
@@ -147,11 +149,12 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 * [Group Long-Term Disability Data Set Comparison](file:///Users/Yu-Ying/Downloads/group-ltd-data-set.html)
 * Long-Term Care Data Set Comparison
 
-
+Machine Learning for Actuaries [ppt](https://www.actuaries.org.uk/documents/machine-learning-presentation) 不錯
 
 
 
 #### [ratemaking]
+-2018: [ML]: Ratemaking application of Bayesian LASSO with conjugate hyperprior [paper](https://www.researchgate.net/publication/327733398_Ratemaking_application_of_Bayesian_LASSO_with_conjugate_hyperprior) / [slide](http://www2.math.uconn.edu/~valdez/BLasso-slides-VALDEZ2.pdf)
 - 作者有Bengio!!: Statistical Learning Algorithms Applied to Automobile Insurance Ratemaking [paper](https://www.iro.umontreal.ca/~vincentp/Publications/itii.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Statistical%20Learning%20Algorithms%20Applied%20to%20Automobile%20Insurance%20Ratemaking.md)
 - 2016: Insurance Premium Prediction via Gradient Tree-Boosted Tweedie Compound Poisson Models [paper](https://arxiv.org/pdf/1508.06378.pdf)
 - Machine Learning – Applications to Insurance Pricing [article](https://www.luxactuaries.com/machine-learning-applications-insurance-pricing/)
@@ -179,9 +182,14 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 
 - KPMG: Learning to trust your digital actuary: New technologies can automate loss reserve analysis, providing insurers with more timely data and deeper insights [report](https://assets.kpmg/content/dam/kpmg/pdf/2016/07/learning-to-trust-your-digital-actuary.pdf)
 
+#### [BlockChain]
+- Understanding Blockchain Technology and Its Insurance Implications [report](https://www.casact.org/community/affiliates/camar/1118/Schmid.pdf)
+- The Complete Guide to Blockchain for Insurance Companies [article](https://igniteoutsourcing.com/blockchain/blockchain-and-insurance-industry/)
+
 
 #### [Actuarial Education]
 - Data Analytics in Actuarial Education [slide](file:///Users/Yu-Ying/Downloads/2017-atc-session-11.pdf)
+- Data mining techniques for actuaries: an overview [slide](https://uwaterloo.ca/advances-in-predictive-analytics/sites/ca.advances-in-predictive-analytics/files/uploads/files/emiliano_valdez.pdf)
 
 #### [Company]
 - Allianz's 
@@ -221,7 +229,38 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 - AI and Machine Learning for Risk Management [paper](https://poseidon01.ssrn.com/delivery.php?ID=382022091086004002100075096118111027029011095077058037071002077109066120104092065024048096036099043030006119122008105071077088040066043048077004064084065086102073002028005026010021068021110005121007093092067120026125084087126065004027024088113107127&EXT=pdf)
 - Overview and Practical Application of Machine Learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf)
 - Accenture(consulting): Validating Machine Learning and AI Models in Financial [report](https://www.accenture.com/t20180427T082714Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/MainPages/Documents/Global/Accenture-Emerging-Trends-in-the-Validation-of-ML-and-AI-Models.pdf)
-- Reinforcement learning in financial markets - a survey [paper](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf)
+- [RL] Reinforcement learning in financial markets - a survey [paper](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf)
+- Statistical Machine Learning and Data Analytic Methods for Risk and Insurance [paper]notopen
+
+
+#### Longitivity v.s. Aging
+- [GAN&RL] 2019: Artificial intelligence for aging and longevity research: Recent advances and perspectives [paper](https://www.sciencedirect.com/science/article/pii/S156816371830240X)
+- 2017: Facing Up to Longevity with Old Actuarial Methods: A Comparison of Pooled Funds and Income Tontines [paper](https://link.springer.com/article/10.1057%2Fs41288-017-0056-1)
+
+
+#### Weather Risk
+- [DL] 2019: Deep Learning for Improved Agricultural Risk Management [paper](https://www.researchgate.net/publication/330366743_Deep_Learning_for_Improved_Agricultural_Risk_Management)
+- [MCMC] 2017: Statistical Methods for Weather-related Insurance Claims [dissertation](http://eprints.lancs.ac.uk/85903/1/2017Rohrbeckphd.pdf)
+- [MCMC] 2017: Extreme Value Modelling of Water-related Insurance Claims [paper](http://eprints.lancs.ac.uk/89443/1/AOAS1081.pdf)
+- 2017: Satellite Data and Machine Learning for Weather Risk Management and Food Security [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.12847) / [slide](https://cdn.uclouvain.be/groups/cms-editors-isba/events/dami/slides-web-ok-/EnricoBiffis.pdf)
+- 2017: Exposure as duration and distance in telematics motor insurance using generalized additive models [paper]()
+- Credit risk management for agri-business under weather uncertainty
+- [RL] Climate change mitigation management using reinforcement learning 
+
+
+#### Telematics Devices
+- 2019: Annals of Actuarial Science: Multivariate credibility modeling for usage-based motor insurance pricing with behavioural data [accepting]
+- 2018: Claims frequency modelling using telematics car driving data [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102371) / [slide](https://insurancedatascience.org/downloads/London2018/Session1/Mario_Wüthrich.pdf)
+- 2018: The Use of Telematics Devices to Improve Automobile Insurance Rates [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13172)
+- 2018: Evolution of Insurance: A Telematics-Based Personal Auto Insurance Study [paper](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1563&context=srhonors_theses)
+- 2017: Exposure as Duration and Distance in Telematics Motor Insurance Using Generalized Additive Models [paper](https://www.mdpi.com/2227-9091/5/4/54)
+- 2016: Using GPS data to analyse the distance travelled to the first accident at fault in pay-as-you-drive insurance [paper](https://www.researchgate.net/publication/301205090_Using_GPS_data_to_analyze_the_distance_traveled_to_the_first_accident_at_fault_in_pay-as-you-drive_insurance)
+- 2016: Risk: Telematics and Gender Discrimination: Some Usage-Based Evidence on Whether Men’s Risk of Accidents Differs from Women’s [paper](https://www.researchgate.net/publication/300082468_Telematics_and_Gender_Discrimination_Some_Usage-Based_Evidence_on_Whether_Men's_Risk_of_Accidents_Differs_from_Women's)
+
+
+#### Reinsurance
+- PnC Reinsurance Modeling Using NumPy and TensorFlow [slide](https://insurancedatascience.org/downloads/London2018/Session2/Pauli_Rämö.pdf)
+
 
 
 #### Survival Analysis:(relatively mature)
@@ -232,7 +271,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 #### Claim Frequency 
 - [ML+R code] Data Science in Non-Life Insurance Pricing: Predicting Claims Frequencies using Tree-Based Models [thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Data%20Science%20in%20Non-Life%20Insurance%20Pricing:%20Predicting%20Claims%20Frequencies%20using%20Tree-Based%20Models.md) / [slide](https://people.math.ethz.ch/~wueth/Talks/2017_Geneva.pdf)
-
+- [ML] 2018: Predictive Analytics of Insurance Claims Using Multivariate Decision Trees [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3216135)
 
 #### Car Insurance
 - [CNN] SOA_2018: Applying Image Recognition to Insurance_driver behavior assessment [paper](https://www.soa.org/Files/resources/.../applying-image-recognition.pdf) 
@@ -262,7 +301,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 - [DL] Credit Card Default Prediction Using TensorFlow (Part-1 Deep Neural Networks) [medium](https://medium.com/@Saadism/credit-card-default-prediction-using-tensorflow-part-1-deep-neural-networks-ef22cfd4d278)
 - [ML] 2018: Ensemble Learning or Deep Learning? Application to Default risk analysis. [student's paper in TW data](http://www.econ.kobe-u.ac.jp/RePEc/koe/wpaper/2018/1802.pdf)
 - [ML] 2017: ANALYSIS OF FINANCIAL CREDIT RISK USING MACHINE LEARNING [thesis](https://arxiv.org/pdf/1802.05326.pdf)
-
+- [ML] 2017: Predictably Unequal? The Effects of Machine Learning on Credit Markets [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072038)
 
 #### Risk Attitude
 - [2018] Eye-Tracking and Economic Theories of Choice Under Risk [paper](https://cear.gsu.edu/files/2018/12/WP_2018_06_Eye-Tracking-and-Economic-Theories-of-Choice-Under-Risk_2018_1204.pdf)
@@ -288,7 +327,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 #### Pricing:
 - [DNN] 2018: The Day I Taught My Computer What Duration Is (Neural Network Bond Pricing) [blog w/ code](https://www.linkedin.com/pulse/day-i-taught-my-computer-what-duration-neural-network-jacob-bourne/)
 - [ML] Machine Learning Methods to Perform Pricing Optimization. A Comparison with Standard GLMs. [paper](https://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)
-- [ML] Tree-based machine learning for insurance pricing. [slide](https://kuleuvencongres.be/eaj2018/documents/presentations/1-roel-henckaerts.pdf)
+- [ML] Tree-based machine learning for insurance pricing. [slide](https://kuleuvencongres.be/eaj2018/documents/presentations/1-roel-henckaerts.pdf) / [talk](https://www.youtube.com/watch?v=z1AlNGXGz9A)
 - [ML] Machine Learning application in non-life pricing. Frequency modelling: an educational case study. [report](https://reacfin.com/en/sites/default/files/documents/20170914%20Machine%20Learning%20applications%20for%20non-life%20pricing.pdf) 
 - [ML] Data Analytics for Non-Life Insurance Pricing [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870308)
 - [ML] Data Science in Non-Life Insurance Pricing. Predicting Claims Frequencies using Tree-Based Models. [Master Thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf)
@@ -296,6 +335,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 
 #### Portfolio Management
+- [GAN+RL] 2018: Adversarial Deep Reinforcement Learning in Portfolio Management [paper](https://arxiv.org/pdf/1808.09940.pdf)
 - [RL Model Free] 2017: A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem (Crypto) [paper](https://arxiv.org/pdf/1706.10059.pdf)
 - [RL] 2015: A Comprehensive Survey on Safe Reinforcement Learning [paper](http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/A%20Comprehensive%20Survey%20on%20Safe%20Reinforcement%20Learning.md)
 - [RL] 2005/J of AI: Risk-Sensitive Reinforcement Learning Applied to Control under Constraints [paper](https://arxiv.org/pdf/1109.2147.pdf) [note]()
@@ -336,6 +376,7 @@ Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1
 - [Streaming Active Learning Strategies for Real-Life Credit Card Fraud Detection: Assessment and Visualization](https://arxiv.org/abs/1804.07481)
 - [Sequential Behavioral Data Processing Using Deep Learning and the Markov Transition Field in Online Fraud Detection](https://arxiv.org/abs/1808.05329v1)
 - [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
+- 2016: Pridit is a Useful Technique for Detecting Consumer Fraud When No Training Sample Is Available
 
 
 #### Sentimental Analysis
@@ -374,6 +415,10 @@ Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1
 - [Intelligent Personal Assistant with Knowledge Navigation](https://arxiv.org/abs/1704.08950v1)
 
 
+#### MCMC
+- [NICE-MC] A-NICE-MC: Adversarial Training for MCMC [paper](https://arxiv.org/pdf/1706.07561.pdf)
+- [MH-GAN] Metropolis-Hastings Generative Adversarial Networks [paper](https://arxiv.org/abs/1811.11357?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)
+
 
 
 
@@ -403,6 +448,10 @@ Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1
 6. UNSW University of New South Wales, Australia The School of Risk & Actuarial Studies
 Focus on AIPAR (Australian Institute for Population Ageing and Research) and the Centre of Excellence in Population Ageing and Research (CEPAR).
 7. Wisconsin University of Wisconsin–Madison
+8. QRSL: Quantitative Risk Solutions Lab [web](http://garethpeters78.wixsite.com/garethwpeters) / Heriot-Watt University, School of Mathematical & Computer Sciences, Actuarial Mathematics & Statistics
+- Gareth W. Peters [publication](https://researchportal.hw.ac.uk/en/persons/gareth-w-peters/publications/)
+9. University of Barcelona, the Research Group on Risk in Insurance and Finance [web](http://www.ub.edu/riskcenter/)
+- MONTSERRAT GUILLEN I ESTANY [publication](http://www.ub.edu/rfa/docs/cv/mgearticles.htm) / [working](http://www.ub.edu/school-economics/researchers/guillen-montserrat/)
 
 
 The University of Melbourne
@@ -414,7 +463,7 @@ University of Iowa
 
 #### EBOOK
 - 2018 [An Introduction to Computational Risk Management of Equity-Linked Insurance](https://www.readcube.com/articles/10.1201%2F9781315151687?shared_access_token=llN13LeTubXYwWnRseViDcvVM4Hs7mp6nzCJVzl2VoUrNp4f8MGH1nnddg1N7UKIPYjEPrfO6f890wTSQfnuRLKX4x_O7YRYGJCHdJDVbfvWvk3YXr_rFmwzLaVqOuaeAPrZnkDTWbW7LLF6EXnDtE43yPy_Ugl-XKLgmIGatFY%3D)
-
+- 2014 [Computational Actuarial Science with R](https://www.crcpress.com/Computational-Actuarial-Science-with-R/Charpentier/p/book/9781466592599)
 
 
 
@@ -475,7 +524,7 @@ PhD Research Projects [link](https://research.csiro.au/risklab/phd-research-proj
 --
 
 [2019/June/Switzerland] Insurance Data Science Conference [Web](https://insurancedatascience.org)
-[2018/London] Insurance Data Science Conference [Web](https://insurancedatascience.org/project/london2018/)
+[2018/London] Insurance Data Science Conference [Web](https://insurancedatascience.org/project/london2018/) / [github](https://gist.github.com/mages/a263a2ff04c3130b885e62952cd50156)
 [2017/Paris] R in Insurance [Web](https://insurancedatascience.org/project/paris2017/)
 [2016/London] R in Insurance [Web](https://insurancedatascience.org/project/london2016/)
 [2015/AMSTERDAM] R in Insurance [Web](https://insurancedatascience.org/project/amsterdam2015/)
@@ -499,8 +548,15 @@ PhD Research Projects [link](https://research.csiro.au/risklab/phd-research-proj
 * 20 years of RiskLab [slide](http://www.ccfz.ch/files/1_embrechts_2.pdf)
 [2013/ETH Zurich] Risk Day 2013 [Web]()
 
+--
+#### Sponsered by QRSL Quantitative Risk Solutions Lab [web](http://garethpeters78.wixsite.com/garethwpeters) / Heriot-Watt University, School of Mathematical & Computer Sciences, Actuarial Mathematics & Statistics
+- SFRA Colloquium 2019 and HW-UoE-ISM Workshop [web](http://www.icms.org.uk/SFRA2019.php): Scottish Financial Risk Academy methodological and computational aspects of Data Science, Machine Learning and their applications and developments within Financial Risk, Financial Mathematics and Insurance
 
 -- 
+
+#### Sponsered by University of Barcelona
+[2016 Data Science & Big Data for Actuaries](https://freakonometrics.hypotheses.org/48127) [live](http://www.ub.edu/ubtv/video/data-science-big-data-for-actuaries)
+
 
 #### Sponsered by GSU CEAR
 GSU CEAR [Archieved Conference](https://cear.gsu.edu/archived-workshops/?wpv_aux_current_post_id=3193&wpv_view_count=11499-TCPID3193&wpv_paged=3#) 好像還好？
@@ -570,6 +626,8 @@ Actuarial Research Conference
 
 [Back to top](#contents)
 
+#### Longetivity v.s. Biological Age
+- 2018: GERO: AI to predict biological age based on smartphone and wearables data [news](https://www.eurekalert.org/pub_releases/2018-03/g-sua032918.php) / [paper](https://www.sciencedirect.com/science/article/pii/S156816371830240X)
 
 
 -------------
