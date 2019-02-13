@@ -1,9 +1,9 @@
 
-#### A brief survey  : AI in Risk Management and Insurance
+# A brief survey  : AI in Risk Management and Insurance
 
 ---------------
 
-> #### Contents
+> ## Contents
 
 - [Misc](#misc)
 - [Finance Industry](#finance-industry)
@@ -24,16 +24,16 @@
 
 --------------
 
-#### Misc
+## Misc
 
 [Back to top](#contents)
 
-What's the future looks like for DL & Finance?
+#### What's the future looks like for DL & Finance?
 * Igor Halperin: RL on management [quora](https://www.quora.com/What-would-be-the-next-big-thing-in-quantitative-finance-after-machine-learning-big-data-high-frequency-algorithmic-trading-How-is-the-industry-going-to-evolve-in-the-next-10-years)
 * Igor Halperin: deep learning is useful for mortgage risk, as was shown by Kay Giesecke and his group at Stanford, as well as for credit scoring/credit cards, P2P lending [quora](https://www.quora.com/Is-deep-learning-useful-in-finance-outside-of-high-frequency-trading)
 * Igor Halperin: RL on credit scoring: [Quora](https://www.quora.com/Which-books-or-lecture-notes-should-I-learn-to-begin-develop-reinforcement-learning-models-for-credit-scoring)
 
-Finance data property w.r.t. Deep Learning
+#### Finance data property w.r.t. Deep Learning
 
 * Too noisy to use ML model not stationary
 * Data are small-to-medium, where deep learning needs large data
@@ -49,7 +49,7 @@ Finance data property w.r.t. Deep Learning
 
 ------------
 
-#### Finance Industry
+## Finance Industry
 
 [Back to top](#contents)
 
@@ -57,7 +57,7 @@ Finance data property w.r.t. Deep Learning
 
 ------------------
 
-#### Finance Technology
+## Finance Technology
 
 [Back to top](#contents)
 
@@ -67,7 +67,7 @@ Finance data property w.r.t. Deep Learning
 
 ------------------
 
-#### AI in Risk Management
+## AI in Risk Management
 
 [Back to top](#contents)
 
@@ -123,7 +123,7 @@ make a small twist from stat to ML/DL
 
 ------------------
 
-#### AI in Insurance
+## AI in Insurance
 
 [Back to top](#contents)
 
@@ -151,22 +151,22 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 
 
 
-[ratemaking]
+#### [ratemaking]
 - 作者有Bengio!!: Statistical Learning Algorithms Applied to Automobile Insurance Ratemaking [paper](https://www.iro.umontreal.ca/~vincentp/Publications/itii.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Statistical%20Learning%20Algorithms%20Applied%20to%20Automobile%20Insurance%20Ratemaking.md)
 - 2016: Insurance Premium Prediction via Gradient Tree-Boosted Tweedie Compound Poisson Models [paper](https://arxiv.org/pdf/1508.06378.pdf)
 - Machine Learning – Applications to Insurance Pricing [article](https://www.luxactuaries.com/machine-learning-applications-insurance-pricing/)
 - AXA: Using machine learning for insurance pricing optimization [news](https://cloud.google.com/blog/products/gcp/using-machine-learning-for-insurance-pricing-optimization)
 
 
-[parameter estimation]
+#### [parameter estimation]
 - [ML-unsupervised?] A MACHINE-LEARNING APPROACH TO PARAMETER ESTIMATION [article](https://www.casact.org/pubs/monographs/papers/06-Kunce-Chatterjee.pdf) 
 
 
 
-[Claims]
+#### [Claims]
 - R/Shiny - Machine Learning for insurance claims [Video](https://www.youtube.com/watch?v=3KNlT3evDkc) [Article](https://www.r-bloggers.com/machine-learning-for-insurance-claims/) [More Shiny](https://www.youtube.com/channel/UC4cF877tXYUa3h3Ou6tcxXA/videos)
 
-[Fraud Detection] Casualty Insurance face lots of fraud.
+#### [Fraud Detection] Casualty Insurance face lots of fraud.
 
 - From Logistic Regression in SciKit-Learn to Deep Learning with TensorFlow – A fraud detection case study [Blog Part 1](https://ipythonquant.wordpress.com/2018/05/08/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-i/) / [Blog Part 2](https://ipythonquant.wordpress.com/2018/05/18/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-ii/) / [Github](https://github.com/mgroncki/IPythonScripts/blob/master/LogisticRegression_Part1.ipynb)
 - Top 10 Data Science Use Cases in Insurance [Article](https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1)
@@ -174,21 +174,21 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 
 
 
-[loss]
+#### [loss]
 - [GRU] 2018 Actuarial Applications of Deep Learning_Loss Reserving and Beyond [slide](https://ibnr.netlify.com/#29) / [arxiv](https://arxiv.org/pdf/1804.09253.pdf) / [DeepTriangle_github_R](https://github.com/kevinykuo/deeptriangle)
 
 - KPMG: Learning to trust your digital actuary: New technologies can automate loss reserve analysis, providing insurers with more timely data and deeper insights [report](https://assets.kpmg/content/dam/kpmg/pdf/2016/07/learning-to-trust-your-digital-actuary.pdf)
 
 
-[Actuarial Education]
+#### [Actuarial Education]
 - Data Analytics in Actuarial Education [slide](file:///Users/Yu-Ying/Downloads/2017-atc-session-11.pdf)
 
-[Company]
+#### [Company]
 - Allianz's 
 > bot Allie, an online assistant available 24/7 to answer personal lines customers’ questions. It is also using machine learning to carry out risk assessments and support automated underwriting in the small- to medium-enterprise (SME) space.
 
 
-[Decentralize Insurance] \
+#### [Decentralize Insurance] \
 Decentralized Insurance Developer Conference 2017 [Playlist](https://www.youtube.com/playlist?list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO) (Bold is something I'm more interested in.) 
 - **Keynote: Decentralized Decision Making** [Video](https://www.youtube.com/watch?v=-j6Esc_Pm_I&index=2&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
 - Workshop: How to Develop a Blockchain-based Insurance Solution in a Few Hours [Video](https://www.youtube.com/watch?v=OqlThIN-kC4&index=3&list=PLv_C3XL8vCF4TfX9UKZgA8wWZQuvuqFyO)
@@ -212,36 +212,36 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 ----------
 
 
-#### Literature review
+## Literature review
 
 
 [Back to top](#contents)
 
-BirdView for Risk Management:
+#### BirdView for Risk Management:
 - AI and Machine Learning for Risk Management [paper](https://poseidon01.ssrn.com/delivery.php?ID=382022091086004002100075096118111027029011095077058037071002077109066120104092065024048096036099043030006119122008105071077088040066043048077004064084065086102073002028005026010021068021110005121007093092067120026125084087126065004027024088113107127&EXT=pdf)
 - Overview and Practical Application of Machine Learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf)
 - Accenture(consulting): Validating Machine Learning and AI Models in Financial [report](https://www.accenture.com/t20180427T082714Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/MainPages/Documents/Global/Accenture-Emerging-Trends-in-the-Validation-of-ML-and-AI-Models.pdf)
 - Reinforcement learning in financial markets - a survey [paper](https://www.econstor.eu/bitstream/10419/183139/1/1032172355.pdf)
 
 
-Survival Analysis:(relatively mature)
+#### Survival Analysis:(relatively mature)
 - [ML] 2017: Machine Learning for Survival Analysis: A Survey [paper](https://arxiv.org/pdf/1708.04649.pdf)
 - [repository](https://github.com/robi56/Survival-Analysis-using-Deep-Learning)
 - [DeepSurv package](https://github.com/jaredleekatzman/DeepSurv)
 - [SurvivalNet package](https://github.com/CancerDataScience/SurvivalNet)
 
-Claim Frequency 
+#### Claim Frequency 
 - [ML+R code] Data Science in Non-Life Insurance Pricing: Predicting Claims Frequencies using Tree-Based Models [thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Data%20Science%20in%20Non-Life%20Insurance%20Pricing:%20Predicting%20Claims%20Frequencies%20using%20Tree-Based%20Models.md) / [slide](https://people.math.ethz.ch/~wueth/Talks/2017_Geneva.pdf)
 
 
-Car Insurance
+#### Car Insurance
 - [CNN] SOA_2018: Applying Image Recognition to Insurance_driver behavior assessment [paper](https://www.soa.org/Files/resources/.../applying-image-recognition.pdf) 
 - [CNN] IBM_2017: DarNet: A Deep Learning Solution for Distracted Driving Detection [paper](http://cs.brown.edu/~tab/papers/middleware17.pdf)
 - [CNN] Using Convolutional Neural Networks to Perform Classification on State Farm Insurance Driver Images [paper](http://cs229.stanford.edu/proj2016spr/report/004.pdf)
 
 
 
-Market Risk Manegement:
+#### Market Risk Manegement:
 - [LSTM+stacked autoencoder] 2017: A deep learning framework for financial time series using stacked autoencoders and long-short term memory [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5510866/)
 - [GANs] Using Bidirectional Generative Adversarial Networks to estimate Value-at-Risk for Market Risk Management [Medium](https://towardsdatascience.com/using-bidirectional-generative-adversarial-networks-to-estimate-value-at-risk-for-market-risk-c3dffbbde8dd) [Github](https://github.com/hamaadshah/market_risk_gan_keras)
 - [GAN] 2005/Two-Step Disentanglement for Financial Data [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Two-Step%20Disentanglement%20for%20Financial%20Data.md) [paper](https://arxiv.org/pdf/1709.00199.pdf)
@@ -251,10 +251,12 @@ Market Risk Manegement:
 
 
 
-Mortgage Risk
+#### Mortgage Risk
 - [DL] 2015: Deep Learning for Mortgage Risk [paper](https://stanford.app.box.com/s/0iqyz2zt82uvqjb5cn8tskxxe7m0i0zo)
 
-Credit Risk
+
+
+#### Credit Risk
 - [DL] 2018: Credit Risk Analysis Using Machine and Deep Learning Models [paper](https://halshs.archives-ouvertes.fr/halshs-01835164/document)
 - [LSTM] 2018: Deep Credit Risk Ranking with LSTM [talk+slide](https://databricks.com/session/productionizing-credit-risk-analytics-with-lstm-tensorspark-a-wells-fargo-case-study) 
 - [DL] Credit Card Default Prediction Using TensorFlow (Part-1 Deep Neural Networks) [medium](https://medium.com/@Saadism/credit-card-default-prediction-using-tensorflow-part-1-deep-neural-networks-ef22cfd4d278)
@@ -262,11 +264,11 @@ Credit Risk
 - [ML] 2017: ANALYSIS OF FINANCIAL CREDIT RISK USING MACHINE LEARNING [thesis](https://arxiv.org/pdf/1802.05326.pdf)
 
 
-Risk Attitude
+#### Risk Attitude
 - [2018] Eye-Tracking and Economic Theories of Choice Under Risk [paper](https://cear.gsu.edu/files/2018/12/WP_2018_06_Eye-Tracking-and-Economic-Theories-of-Choice-Under-Risk_2018_1204.pdf)
 
 
-Option Pricing:
+#### Option Pricing:
 - [LSTM] 2018: Option hedging with Long-Short-Term-Memory Recurrent Neural Networks [Blog]() / [Deep Hedging Ref Paper](https://arxiv.org/abs/1802.03042) / [Github]()
 - [RL] 2018 Igor Halperin: Model-Free Option Pricing with Reinforcement Learning [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/IgorHalperin_Columbia_ML_in_finance_QLBS.pdf) / [coursera](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 - [RL] 2017 Igor Halperin: QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds [paper](https://arxiv.org/pdf/1712.04609v2.pdf)
@@ -282,7 +284,8 @@ Option Pricing:
 - [NN] 2012 An Option Pricing Model That Combines Neural Network Approach and Black Scholes Formula
 - [ANN] 2013: Option Pricing Using Artificial Neural Networks: An Australian Perspective [dissertation](https://pure.bond.edu.au/ws/portalfiles/portal/18243185/Option_Pricing_Using_Artificial_Neural_Networks.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Option%20Pricing%20Using%20Artificial%20Neural%20Networks:%20An%20Australian%20Perspective.md)
 
-Pricing:
+
+#### Pricing:
 - [DNN] 2018: The Day I Taught My Computer What Duration Is (Neural Network Bond Pricing) [blog w/ code](https://www.linkedin.com/pulse/day-i-taught-my-computer-what-duration-neural-network-jacob-bourne/)
 - [ML] Machine Learning Methods to Perform Pricing Optimization. A Comparison with Standard GLMs. [paper](https://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)
 - [ML] Tree-based machine learning for insurance pricing. [slide](https://kuleuvencongres.be/eaj2018/documents/presentations/1-roel-henckaerts.pdf)
@@ -292,7 +295,7 @@ Pricing:
 - [ML] Overview and practical application of Machine learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf) conclusion: domain knowledge win
 
 
-Portfolio Management
+#### Portfolio Management
 - [RL Model Free] 2017: A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem (Crypto) [paper](https://arxiv.org/pdf/1706.10059.pdf)
 - [RL] 2015: A Comprehensive Survey on Safe Reinforcement Learning [paper](http://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf) [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/A%20Comprehensive%20Survey%20on%20Safe%20Reinforcement%20Learning.md)
 - [RL] 2005/J of AI: Risk-Sensitive Reinforcement Learning Applied to Control under Constraints [paper](https://arxiv.org/pdf/1109.2147.pdf) [note]()
@@ -300,7 +303,7 @@ Portfolio Management
 - [RL] 1996/ Use Of Neural Network Ensembles for Portfolio Selection and Risk Management
 
 
-Stock Price Prediction
+#### Stock Price Prediction
 - [QLearning] Q-Learning-for-Auto-Trading [Siraj's TY](https://www.youtube.com/watch?v=rRssY6FrTvU&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/Q-Learning-for-Trading)
 - [RL] Q-learning applied to (short-term) stock trading [Siraj YT](https://www.youtube.com/watch?v=05NqKJ0v7EE) / [Siraj's Github](https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction) / [Original Github](https://github.com/edwardhdlu/q-trader)
 - [GAN] 2018: Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets [paper](https://www.hindawi.com/journals/mpe/2018/4907423/)
@@ -317,7 +320,7 @@ Stock Price Prediction
 
 
 
-Fraud Detection
+#### Fraud Detection
 - Fraud Detection model based on anonymized credit card transactions [Siraj's YT](https://www.youtube.com/watch?v=UNgdIkuVC6g) / [Siraj's Github](https://github.com/llSourcell/AI_for_Financial_Data)
 - [One-Class Adversarial Nets for Fraud Detection](https://arxiv.org/pdf/1803.01798.pdf)
 - [Detection of Anomalies in Large-Scale
@@ -334,11 +337,14 @@ Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1
 - [Sequential Behavioral Data Processing Using Deep Learning and the Markov Transition Field in Online Fraud Detection](https://arxiv.org/abs/1808.05329v1)
 - [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
 
-Sentimental Analysis
+
+#### Sentimental Analysis
 - [TF] Sentiment Analyzer on IMDB movie [Siraj's YT](https://www.youtube.com/watch?v=si8zZHkufRY&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/How_to_do_Sentiment_Analysis)
+- [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883v2)
+- [Financial Aspect-Based Sentiment Analysis using Deep Representations](https://arxiv.org/abs/1808.07931v1)
+- [The Evolution of Sentiment Analysis - A Review of Research Topics, Venues, and Top Cited Papers](https://arxiv.org/abs/1612.01556v4) 
  
- 
-Optimication/Decision Making
+#### Optimication/Decision Making
 - [RL] Adobe: Risk-averse Decision-making & Control [slide](http://www.cs.unh.edu/~mpetrik/tutorials/risk/riskaverse_rl.pdf)
 ===
 - FinBrain: When Finance Meets AI 2.0. [arxiv](https://arxiv.org/abs/1808.08497v1)
@@ -354,27 +360,24 @@ Optimication/Decision Making
 - Identifying Metaphor Hierarchies in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3138v1) - 2012
 
 
-Credit scoring:
+#### Credit scoring:
 
 - [Segment-Based Credit Scoring Using Latent Clusters in the Variational Autoencoder](https://arxiv.org/abs/1806.02538v1)
 - [Improving a Credit Scoring Model by Incorporating Bank Statement Derived Features](https://arxiv.org/abs/1611.00252v2)
 - [Transfer Learning Using Logistic Regression in Credit Scoring](https://arxiv.org/abs/1212.6167v1)
 
-PF:
+
+#### PF:
 
 - [Different but Equal: Comparing User Collaboration with Digital Personal Assistants vs. Teams of Expert Agents](https://arxiv.org/abs/1808.08157v1)
 - [PersonaBank: A Corpus of Personal Narratives and Their Story Intention Graphs](https://arxiv.org/abs/1708.09082v1)
 - [Intelligent Personal Assistant with Knowledge Navigation](https://arxiv.org/abs/1704.08950v1)
 
-Sentiment Analysis:
-
-- [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883v2)
-- [Financial Aspect-Based Sentiment Analysis using Deep Representations](https://arxiv.org/abs/1808.07931v1)
-- [The Evolution of Sentiment Analysis - A Review of Research Topics, Venues, and Top Cited Papers](https://arxiv.org/abs/1612.01556v4)
 
 
 
-#### Literature ML Finance focused
+
+## Literature ML Finance focused
 
 [Back to top](#contents)
 
@@ -388,7 +391,7 @@ Sentiment Analysis:
 
 
 
-#### Actuarial Science Program Worldwide
+## Actuarial Science Program Worldwide
 
 [Back to top](#contents)
 
@@ -409,7 +412,7 @@ University of Waterloo, Canada
 University of Iowa
 
 
-EBOOK
+#### EBOOK
 - 2018 [An Introduction to Computational Risk Management of Equity-Linked Insurance](https://www.readcube.com/articles/10.1201%2F9781315151687?shared_access_token=llN13LeTubXYwWnRseViDcvVM4Hs7mp6nzCJVzl2VoUrNp4f8MGH1nnddg1N7UKIPYjEPrfO6f890wTSQfnuRLKX4x_O7YRYGJCHdJDVbfvWvk3YXr_rFmwzLaVqOuaeAPrZnkDTWbW7LLF6EXnDtE43yPy_Ugl-XKLgmIGatFY%3D)
 
 
@@ -454,38 +457,18 @@ PhD Research Projects [link](https://research.csiro.au/risklab/phd-research-proj
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-RiskLab Finland
-
-RiskLab Toronto
-
-RiskLab Madrid
-
-
-#### ML DL Finance Conference
+## ML DL Finance Conference
 
 [Back to top](#contents)
 
 --
 
-Sponsored by SOA already 50+ years
+#### Sponsored by SOA already 50+ years
 2018 Actuarial Research Conference [program](https://conference.uwo.ca/arc2018/program_schedule.pdf)
 
 --
 
-Sponsered by UNSW
+#### Sponsered by UNSW
 [2018] 22nd International Congress on Insurance: Mathematics and Economics [Web](https://www.business.unsw.edu.au/Campaigns/IME2018) [program](https://www.business.unsw.edu.au/Campaigns-Site/IME2018/Documents/program-schedule.pdf)
 
 
@@ -501,7 +484,7 @@ Sponsered by UNSW
 
 --
 
-Sponsered by ETH Zurich
+#### Sponsered by ETH Zurich
 [2019/ETH Zurich] Risk Day 2019 [Web]()
 [2018/ETH Zurich] Risk Day 2018 [Web](https://www.math.ethz.ch/imsf/events/risk-day/past-risk-days/programme.html#gonon-abstract)
 * AI in risk management and risk management in AI [slide](https://www.ethz.ch/content/dam/ethz/special-interest/math/risklab-dam/documents/Risk%20Day/2018/Flueckiger.pdf)
@@ -519,7 +502,7 @@ Sponsered by ETH Zurich
 
 -- 
 
-Sponsered by GSU CEAR
+#### Sponsered by GSU CEAR
 GSU CEAR [Archieved Conference](https://cear.gsu.edu/archived-workshops/?wpv_aux_current_post_id=3193&wpv_view_count=11499-TCPID3193&wpv_paged=3#) 好像還好？
 * 2019 CEAR/Huebner Summer Risk Institute
 * Welfare, Preferences, and Risk: Theory, Behavioural Evidence, and Policy
@@ -531,14 +514,14 @@ GSU CEAR [Archieved Conference](https://cear.gsu.edu/archived-workshops/?wpv_aux
 
 -- 
 
-Sponsered by Columbia
+#### Sponsered by Columbia
 [2018] Machine Learning in Finance Workshop 2018 by The Data Science Institute (DSI) at Columbia University and Bloomberg [Web](https://cfe.columbia.edu/machine-learning-finance-workshop-2018)
 * A High Frequency Trade Execution Model for Supervised Learning [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/MathewDixon_HFT_MM_Columbia_Bloomberg.pdf)
 * Big Data's Dirty Secret [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/HarveyStein_BigDataSecretShort.pdf)
 
 --
 
-Sponsered by Finland RiskLab
+#### Sponsered by Finland RiskLab
 Conference run by Finland RiskLab [web](https://risklab.fi/events/)
 * 2019 RiskLab/BoF/ESRB Conference on Systemic Risk Analytics
 * 2018 RiskLab/BoF/ESRB Conference on Systemic Risk Analytics
@@ -561,7 +544,7 @@ Actuarial Research Conference
 
 ----------
 
-#### Libraries 
+## Libraries 
 
 [Back to top](#contents)
 
@@ -583,7 +566,7 @@ Actuarial Research Conference
 
 --------------
 
-#### Startups
+## Startups
 
 [Back to top](#contents)
 
@@ -591,7 +574,7 @@ Actuarial Research Conference
 
 -------------
 
-#### Appendix
+## Appendix
 
 [Back to top](#contents)
 
