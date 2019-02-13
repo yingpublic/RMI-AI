@@ -623,6 +623,8 @@ Actuarial Research Conference
 - [Fraud-detection-using-deep-learning](https://github.com/aaxwaz/Fraud-detection-using-deep-learning)
 - [credit-card-fraud](https://github.com/ellisvalentiner/credit-card-fraud)
 - [ml-fraud-detection](https://github.com/georgymh/ml-fraud-detection)
+- [Auto bodily injury loss data](https://github.com/sterling19/Insurance_Modeling)
+
 
 --------------
 
