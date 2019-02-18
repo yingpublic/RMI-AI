@@ -252,12 +252,18 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 #### Telematics Devices
 - 2019: Annals of Actuarial Science: Multivariate credibility modeling for usage-based motor insurance pricing with behavioural data [accepting]
+- [CNN] 2018: Risks: Convolutional Neural Network Classification of Telematics Car Driving Data [paper](https://www.mdpi.com/2227-9091/7/1/6) 
 - 2018: Claims frequency modelling using telematics car driving data [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102371) / [slide](https://insurancedatascience.org/downloads/London2018/Session1/Mario_Wüthrich.pdf)
 - 2018: The Use of Telematics Devices to Improve Automobile Insurance Rates [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13172)
 - 2018: Evolution of Insurance: A Telematics-Based Personal Auto Insurance Study [paper](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1563&context=srhonors_theses)
 - 2017: Exposure as Duration and Distance in Telematics Motor Insurance Using Generalized Additive Models [paper](https://www.mdpi.com/2227-9091/5/4/54)
 - 2016: Using GPS data to analyse the distance travelled to the first accident at fault in pay-as-you-drive insurance [paper](https://www.researchgate.net/publication/301205090_Using_GPS_data_to_analyze_the_distance_traveled_to_the_first_accident_at_fault_in_pay-as-you-drive_insurance)
 - 2016: Risk: Telematics and Gender Discrimination: Some Usage-Based Evidence on Whether Men’s Risk of Accidents Differs from Women’s [paper](https://www.researchgate.net/publication/300082468_Telematics_and_Gender_Discrimination_Some_Usage-Based_Evidence_on_Whether_Men's_Risk_of_Accidents_Differs_from_Women's)
+
+
+#### Annuity
+- 2019: Risks: Using Neural Networks to Price and Hedge Variable Annuity Guarantees [paper](https://www.mdpi.com/2227-9091/7/1/1)
+
 
 
 #### Reinsurance
@@ -272,6 +278,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 - [SurvivalNet package](https://github.com/CancerDataScience/SurvivalNet)
 
 #### Claim Frequency 
+- [NN] 2018: Risks: An Individual Claims History Simulation Machine [paper](https://www.mdpi.com/2227-9091/6/2/29)
 - [ML+R code] Data Science in Non-Life Insurance Pricing: Predicting Claims Frequencies using Tree-Based Models [thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf) / [note](https://github.com/yingpublic/RMI-AI/blob/master/review/academia/Data%20Science%20in%20Non-Life%20Insurance%20Pricing:%20Predicting%20Claims%20Frequencies%20using%20Tree-Based%20Models.md) / [slide](https://people.math.ethz.ch/~wueth/Talks/2017_Geneva.pdf)
 - [ML] 2018: Predictive Analytics of Insurance Claims Using Multivariate Decision Trees [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3216135)
 
@@ -298,7 +305,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 
 #### Credit Risk
-- [DL] 2018: Credit Risk Analysis Using Machine and Deep Learning Models [paper](https://halshs.archives-ouvertes.fr/halshs-01835164/document)
+- [DL] 2018: Risks: Credit Risk Analysis Using Machine and Deep Learning Models [paper](https://halshs.archives-ouvertes.fr/halshs-01835164/document)
 - [LSTM] 2018: Deep Credit Risk Ranking with LSTM [talk+slide](https://databricks.com/session/productionizing-credit-risk-analytics-with-lstm-tensorspark-a-wells-fargo-case-study) 
 - [DL] Credit Card Default Prediction Using TensorFlow (Part-1 Deep Neural Networks) [medium](https://medium.com/@Saadism/credit-card-default-prediction-using-tensorflow-part-1-deep-neural-networks-ef22cfd4d278)
 - [ML] 2018: Ensemble Learning or Deep Learning? Application to Default risk analysis. [student's paper in TW data](http://www.econ.kobe-u.ac.jp/RePEc/koe/wpaper/2018/1802.pdf)
@@ -310,6 +317,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 
 #### Option Pricing:
+- [NN] 2019: Risks: Pricing Options and Computing Implied Volatilities using Neural Networks [paper](https://www.mdpi.com/2227-9091/7/1/16)
 - [LSTM] 2018: Option hedging with Long-Short-Term-Memory Recurrent Neural Networks [Blog]() / [Deep Hedging Ref Paper](https://arxiv.org/abs/1802.03042) / [Github]()
 - [RL] 2018 Igor Halperin: Model-Free Option Pricing with Reinforcement Learning [slide](https://cfe.columbia.edu/files/seasieor/industrial-engineering-operations-research/IgorHalperin_Columbia_ML_in_finance_QLBS.pdf) / [coursera](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 - [RL] 2017 Igor Halperin: QLBS: Q-Learner in the Black-Scholes(-Merton) Worlds [paper](https://arxiv.org/pdf/1712.04609v2.pdf)
@@ -346,6 +354,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 
 #### Stock Price Prediction
+- [NN] 2018: Risks: The Asymptotic Decision Scenarios of an Emerging Stock Exchange Market: Extreme Value Theory and Artificial Neural Network [paper](https://www.mdpi.com/search?q=neural+network&authors=&article_type=&journal=risks&section=&special_issue=&volume=&issue=&number=&page=&search=Search)
 - [QLearning] Q-Learning-for-Auto-Trading [Siraj's TY](https://www.youtube.com/watch?v=rRssY6FrTvU&feature=youtu.be) / [Siraj's Github](https://github.com/llSourcell/Q-Learning-for-Trading)
 - [RL] Q-learning applied to (short-term) stock trading [Siraj YT](https://www.youtube.com/watch?v=05NqKJ0v7EE) / [Siraj's Github](https://github.com/llSourcell/Reinforcement_Learning_for_Stock_Prediction) / [Original Github](https://github.com/edwardhdlu/q-trader)
 - [GAN] 2018: Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets [paper](https://www.hindawi.com/journals/mpe/2018/4907423/)
