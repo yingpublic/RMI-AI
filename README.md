@@ -342,6 +342,8 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 - [ML] Data Analytics for Non-Life Insurance Pricing [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870308)
 - [ML] Data Science in Non-Life Insurance Pricing. Predicting Claims Frequencies using Tree-Based Models. [Master Thesis](https://www.ethz.ch/content/dam/ethz/special-interest/math/imsf-dam/documents/walter-saxer-preis/ma-zoechbauer.pdf)
 - [ML] Overview and practical application of Machine learning in Pricing [report](https://www.casact.org/education/spring/2017/presentations/C-24.pdf) conclusion: domain knowledge win
+- Tree-Based Machine Learning for Insurance Pricing [slide](https://kuleuvencongres.be/eaj2018/documents/presentations/1-roel-henckaerts.pdf) [talk](https://www.youtube.com/watch?v=z1AlNGXGz9A)
+
 
 
 #### Portfolio Management
@@ -465,6 +467,15 @@ Focus on AIPAR (Australian Institute for Population Ageing and Research) and the
 - Gareth W. Peters [publication](https://researchportal.hw.ac.uk/en/persons/gareth-w-peters/publications/)
 9. University of Barcelona, the Research Group on Risk in Insurance and Finance [web](http://www.ub.edu/riskcenter/)
 - MONTSERRAT GUILLEN I ESTANY [publication](http://www.ub.edu/rfa/docs/cv/mgearticles.htm) / [working](http://www.ub.edu/school-economics/researchers/guillen-montserrat/)
+
+
+Online Course by NYU Igor Halperin
+Machine Learning and Reinforcement Learning in Finance Specialization
+Course 1: [Guided Tour of Machine Learning in Finance](https://www.coursera.org/learn/guided-tour-machine-learning-finance) 4week 21hrs
+Course 2: [Fundamentals of Machine Learning in Finance](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance) 4weeks 17hrs W4開始有RL
+Course 3: [Reinforcement Learning in Finance](https://www.coursera.org/learn/reinforcement-learning-in-finance) 4weeks 22hrs
+Course 4: [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)  4weeks 14hrs
+
 
 
 The University of Melbourne
