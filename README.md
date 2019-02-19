@@ -337,6 +337,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 #### Pricing:
 - [DNN] 2018: The Day I Taught My Computer What Duration Is (Neural Network Bond Pricing) [blog w/ code](https://www.linkedin.com/pulse/day-i-taught-my-computer-what-duration-neural-network-jacob-bourne/)
 - [ML] Machine Learning Methods to Perform Pricing Optimization. A Comparison with Standard GLMs. [paper](https://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)
+- [ML] Non life pricing: empirical comparison of classical GLM with tree based Gradient Boosted Models [slide](https://github.com/LeoPetrini/XGBoost-in-Insurance-2017/blob/master/Slides.pdf) [Github](https://github.com/LeoPetrini/XGBoost-in-Insurance-2017)
 - [ML] Tree-based machine learning for insurance pricing. [slide](https://kuleuvencongres.be/eaj2018/documents/presentations/1-roel-henckaerts.pdf) / [talk](https://www.youtube.com/watch?v=z1AlNGXGz9A)
 - [ML] Machine Learning application in non-life pricing. Frequency modelling: an educational case study. [report](https://reacfin.com/en/sites/default/files/documents/20170914%20Machine%20Learning%20applications%20for%20non-life%20pricing.pdf) 
 - [ML] Data Analytics for Non-Life Insurance Pricing [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2870308)
