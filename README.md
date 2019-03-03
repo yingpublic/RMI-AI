@@ -250,6 +250,19 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 - [RL] Climate change mitigation management using reinforcement learning 
 
 
+#### Rare Event
+- [DL] 2017: Google Brain: [paper](https://openreview.net/pdf?id=SJTQLdqlg) / [github](https://github.com/ageron/tensorflow-models/tree/master/learning_to_remember_rare_events) / [slide](https://www.slideshare.net/TaegyunJeon1/pr12-pr036-learning-to-remember-rare-events) / [reddit](https://www.reddit.com/r/MachineLearning/comments/5ma0r6/r_learning_to_remember_rare_events_kaiser_et_al/) / [openreview](hhttps://openreview.net/forum?id=SJTQLdqlg)
+- Lecture: Data Mining for Analysis of Rare Events: A Case Study in Security, Financial and Medical Applications [handout](https://www-users.cs.umn.edu/~lazar027/pakdd04_tutorial.pdf)
+>> Unsupervised techniques
+>>>  Deviation detection, outlier analysis, anomaly detection, exception mining
+>>>  Analyze each event to determine how similar (or dissimilar) it is to the majority, and their success depends on the choice of similarity measures, dimension weighting
+>>  Supervised techniques
+>>> Mining rare classes
+>>>  Build a model for rare events based on labeled data (the training set), and use it to classify each event
+>>>  Advantage: they produce models that can be easily understood
+>>>  Drawback: The data has to be labeled
+>>  Other techniques – association rules, clustering
+
 #### Telematics Devices
 - 2019: Annals of Actuarial Science: Multivariate credibility modeling for usage-based motor insurance pricing with behavioural data [accepting]
 - [CNN] 2018: Risks: Convolutional Neural Network Classification of Telematics Car Driving Data [paper](https://www.mdpi.com/2227-9091/7/1/6) 
@@ -468,7 +481,9 @@ Focus on AIPAR (Australian Institute for Population Ageing and Research) and the
 - Gareth W. Peters [publication](https://researchportal.hw.ac.uk/en/persons/gareth-w-peters/publications/)
 9. University of Barcelona, the Research Group on Risk in Insurance and Finance [web](http://www.ub.edu/riskcenter/)
 - MONTSERRAT GUILLEN I ESTANY [publication](http://www.ub.edu/rfa/docs/cv/mgearticles.htm) / [working](http://www.ub.edu/school-economics/researchers/guillen-montserrat/)
-
+10. GitHub: Short Course: Applied Machine Learning for Risk Management [GitHub](https://github.com/albahnsen/ML_RiskManagement) HW: Python / Income Prediction / Fraud Detection / Credit Scoring
+11. GitHub: Practical Machine Learning [Github](https://github.com/albahnsen/PracticalMachineLearningClass) Exercise: Survival Detection / Feature Engineering / Classification / Fraud Detection / NLP Cheating Detection
+12. 
 
 Online Course by NYU Igor Halperin
 Machine Learning and Reinforcement Learning in Finance Specialization
@@ -622,6 +637,39 @@ Session on Systemic Risk Analytics and Macroprudential Policy
 International Gerber-Shiu Workshop
 Actuarial Research Conference
 
+----------
+
+## Blog or Videos 
+
+[Back to top](#contents)
+
+From machinelearning.ai
+* Insurance Analytics: Application of analytics / machine learning techniques in insurance industry [blog](https://www.machinelearning.ai/machine-learning/insurance-analytics-application-of-analytics-machine-learning-techniques-in-insurance-industry/) / [YT](https://youtu.be/nAYcec5ja_E)
+-Customer lifecycle in insurance business
+-Fundamental of insurance business
+-Application of various analytics techniques along with the customer life cycle
+1. Use of predictive analytics / supervised machine learning algorithms
+2. Use of collaborative filtering
+
+* D1Conf | Introduction To Machine Learning For Insurance Use Cases [YT](https://youtu.be/vq6G7NnWlDQ) 
+* Artificial Intelligence impact on Insurance Companies in 2017 [YT](https://youtu.be/dfuWiRuPQFM)
+* Machine Learning: Predict Car Insurance Fraud with UK Accident Data [YT12min](https://youtu.be/R8MCyeCBWHU)
+* Innovation and InsurTech: How to get practical with artificial intelligence in insurance [YT40min](https://youtu.be/NwfDaR0wsuY)
+* AI, Machine Learning and Chatbots Improving Insurance Profitability & CX [YT52mins](https://youtu.be/wb0UEHrL5Ow) / [blog](https://www.machinelearning.ai/machine-learning/ai-machine-learning-and-chatbots-improving-insurance-profitability-cx/)
+* Insurance and machine learning [YT16mins](https://youtu.be/S--2fR_czw8)
+* OpenStack at Progressive Insurance Data Science and Machine Learning (Progressive combines OpenStack, Kubernetes and OpenShift) [YT](https://youtu.be/xZwqtldjJRQ)
+* Insurance Insights Artificial Intelligence [YT20mins](https://youtu.be/ofUTjzpdA84)
+* How Hepstar uses data analytics and machine learning to boost travel insurance revenue [YT](https://youtu.be/urrRPdGLb-g)
+* Using Machine Learning to Increase Health Insurance Coverage – Ricky Hennessey – ML4ALL 2018 [YT25mins](https://youtu.be/b8enEGeB1QY)
+* Lowering Insurance Rates Through Machine Learning – Tomer Kashi & Ori Blumenthal, Skywatch.AI-Drone Insurance [YT25mins](https://youtu.be/qHRdgVWRzUI)
+* Risk Roundup Webcast: Machine Learning on Insurance Data to Predict Hospitalization [YT1hr](https://youtu.be/HhEcwHLISXI)
+* [claims] Webinar: Are you Ready? Reshaping Insurance with Artificial Intelligence, focus on claims [YT55mins](https://youtu.be/pgBml0I9_qU)
+* Artificial Intelligence and Machine Learning — Implication for P&C Insurance [YT1.5hr](https://youtu.be/4kAsuOosekM)
+* [claims] Humanizing Insurance Claims with Artificial Intelligence [YT1hr](https://youtu.be/nuf4RgABSd4)
+* [Jupyter] Machine learning with sample Insurance Dataset [YT17mins](https://youtu.be/r8QoGAuC__I) india accent 
+* Artificial Intelligence Task Force – Medical, Healthcare, and Insurance 1/18/19 [YT3.5hr](https://youtu.be/SFnpLzXLeXE)
+* Webnir: Rise of Robotic Process Automation ( RPA ) and Artificial Intelligence ( AI ) in Insurance [YT1hr](https://youtu.be/tVcJ77zS_zg) India accent
+* [Lecture] Machine Learning Lecture 16 “Empirical Risk Minimization” -Cornell CS4780 SP17 [YT46mins](https://youtu.be/AkmPv2WEsHw)
 
 ----------
 
