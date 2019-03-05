@@ -272,7 +272,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 >>>  Drawback: The data has to be labeled
 >>  Other techniques – association rules, clustering
 
-#### Telematics Devices
+#### Telematics Devices / UBI
 - 2019: Annals of Actuarial Science: Multivariate credibility modeling for usage-based motor insurance pricing with behavioural data [accepting]
 - [CNN] 2018: Risks: Convolutional Neural Network Classification of Telematics Car Driving Data [paper](https://www.mdpi.com/2227-9091/7/1/6) 
 - 2018: Claims frequency modelling using telematics car driving data [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102371) / [slide](https://insurancedatascience.org/downloads/London2018/Session1/Mario_Wüthrich.pdf) / [abstract](https://gist.github.com/mages/573eb991d9f9b08014337148dcbcf4a2#-claims-frequency-modelling-using-telematics-car-driving-data)
@@ -281,6 +281,8 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 - 2017: Exposure as Duration and Distance in Telematics Motor Insurance Using Generalized Additive Models [paper](https://www.mdpi.com/2227-9091/5/4/54)
 - 2016: Using GPS data to analyse the distance travelled to the first accident at fault in pay-as-you-drive insurance [paper](https://www.researchgate.net/publication/301205090_Using_GPS_data_to_analyze_the_distance_traveled_to_the_first_accident_at_fault_in_pay-as-you-drive_insurance)
 - 2016: Risk: Telematics and Gender Discrimination: Some Usage-Based Evidence on Whether Men’s Risk of Accidents Differs from Women’s [paper](https://www.researchgate.net/publication/300082468_Telematics_and_Gender_Discrimination_Some_Usage-Based_Evidence_on_Whether_Men's_Risk_of_Accidents_Differs_from_Women's)
+- 2016: Usage-Based Insurance: A European Case Study using Machine Learning [slide](https://www.casact.org/education/rpm/2016/presentations/ubi-4.pdf)
+
 
 
 #### Tail Risk
