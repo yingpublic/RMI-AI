@@ -14,7 +14,9 @@
 - [Literature ML Finance focused](#literature-mL-finance-focused)
 - [Actuarial Science Program Worldwide](#actuarial-science-program-worldwide)
 - [ML DL Finance Conference](#ml-dl-finance-conference)
+- [Blog or Videos](#blog-or-videos)
 - [Libraries](#libraries)
+- [DataSet or Kaggle](#dataset-or-kaggle)
 - [Startups](#startups)
 - [Appendix](#appendix)
 
@@ -169,6 +171,9 @@ Machine Learning for Actuaries [ppt](https://www.actuaries.org.uk/documents/mach
 #### [Claims]
 - R/Shiny - Machine Learning for insurance claims [Video](https://www.youtube.com/watch?v=3KNlT3evDkc) [Article](https://www.r-bloggers.com/machine-learning-for-insurance-claims/) [More Shiny](https://www.youtube.com/channel/UC4cF877tXYUa3h3Ou6tcxXA/videos)
 
+#### [S]
+- Contribution of Data Science to the Solvency 2 regulatory framework: SFCR automated analysis [Abstract](https://gist.github.com/mages/573eb991d9f9b08014337148dcbcf4a2#--sfcr-automated-analysis-using-scraping-text-mining-and-machine-learning-methods-for-benchmarking-and-capital-modelling) / [slide](https://insurancedatascience.org/downloads/London2018/Session5/Aurelien_Couloumy.pdf)
+
 #### [Fraud Detection] Casualty Insurance face lots of fraud.
 
 - From Logistic Regression in SciKit-Learn to Deep Learning with TensorFlow – A fraud detection case study [Blog Part 1](https://ipythonquant.wordpress.com/2018/05/08/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-i/) / [Blog Part 2](https://ipythonquant.wordpress.com/2018/05/18/from-logistic-regression-in-scikit-learn-to-deep-learning-with-tensorflow-a-fraud-detection-case-study-part-ii/) / [Github](https://github.com/mgroncki/IPythonScripts/blob/master/LogisticRegression_Part1.ipynb)
@@ -191,6 +196,10 @@ Machine Learning for Actuaries [ppt](https://www.actuaries.org.uk/documents/mach
 - Data Analytics in Actuarial Education [slide](file:///Users/Yu-Ying/Downloads/2017-atc-session-11.pdf)
 - Data mining techniques for actuaries: an overview [slide](https://uwaterloo.ca/advances-in-predictive-analytics/sites/ca.advances-in-predictive-analytics/files/uploads/files/emiliano_valdez.pdf)
 - https://www.jstor.org/stable/3182781?seq=1#page_scan_tab_contents [report](https://www.jstor.org/stable/3182781?seq=1#page_scan_tab_contents)
+
+#### [Fairness]
+- Machine learning and fairness in commercial insurance [Abstract](https://gist.github.com/mages/573eb991d9f9b08014337148dcbcf4a2#--machine-learning-and-fairness-for-commercial-insurance) / [slide](https://insurancedatascience.org/downloads/London2018/Session5/Oliver_Laslett.pdf) 圖還不錯
+
 
 #### [Company]
 - Allianz's 
@@ -245,9 +254,9 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 - [MCMC] 2017: Statistical Methods for Weather-related Insurance Claims [dissertation](http://eprints.lancs.ac.uk/85903/1/2017Rohrbeckphd.pdf)
 - [MCMC] 2017: Extreme Value Modelling of Water-related Insurance Claims [paper](http://eprints.lancs.ac.uk/89443/1/AOAS1081.pdf)
 - 2017: Satellite Data and Machine Learning for Weather Risk Management and Food Security [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.12847) / [slide](https://cdn.uclouvain.be/groups/cms-editors-isba/events/dami/slides-web-ok-/EnricoBiffis.pdf)
-- 2017: Exposure as duration and distance in telematics motor insurance using generalized additive models [paper]()
 - Credit risk management for agri-business under weather uncertainty
 - [RL] Climate change mitigation management using reinforcement learning 
+- [ML] Statistical analysis of weather-related property insurance claims [abstract](https://gist.github.com/mages/573eb991d9f9b08014337148dcbcf4a2#-statistical-analysis-of-weather-related-property-insurance-claims) / [slide](https://insurancedatascience.org/downloads/London2018/Session1/Christian_Rohrbeck.pdf)
 
 
 #### Rare Event
@@ -266,12 +275,20 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 #### Telematics Devices
 - 2019: Annals of Actuarial Science: Multivariate credibility modeling for usage-based motor insurance pricing with behavioural data [accepting]
 - [CNN] 2018: Risks: Convolutional Neural Network Classification of Telematics Car Driving Data [paper](https://www.mdpi.com/2227-9091/7/1/6) 
-- 2018: Claims frequency modelling using telematics car driving data [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102371) / [slide](https://insurancedatascience.org/downloads/London2018/Session1/Mario_Wüthrich.pdf)
+- 2018: Claims frequency modelling using telematics car driving data [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102371) / [slide](https://insurancedatascience.org/downloads/London2018/Session1/Mario_Wüthrich.pdf) / [abstract](https://gist.github.com/mages/573eb991d9f9b08014337148dcbcf4a2#-claims-frequency-modelling-using-telematics-car-driving-data)
 - 2018: The Use of Telematics Devices to Improve Automobile Insurance Rates [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13172)
 - 2018: Evolution of Insurance: A Telematics-Based Personal Auto Insurance Study [paper](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1563&context=srhonors_theses)
 - 2017: Exposure as Duration and Distance in Telematics Motor Insurance Using Generalized Additive Models [paper](https://www.mdpi.com/2227-9091/5/4/54)
 - 2016: Using GPS data to analyse the distance travelled to the first accident at fault in pay-as-you-drive insurance [paper](https://www.researchgate.net/publication/301205090_Using_GPS_data_to_analyze_the_distance_traveled_to_the_first_accident_at_fault_in_pay-as-you-drive_insurance)
 - 2016: Risk: Telematics and Gender Discrimination: Some Usage-Based Evidence on Whether Men’s Risk of Accidents Differs from Women’s [paper](https://www.researchgate.net/publication/300082468_Telematics_and_Gender_Discrimination_Some_Usage-Based_Evidence_on_Whether_Men's_Risk_of_Accidents_Differs_from_Women's)
+
+
+#### Tail Risk
+- [St] Statistical Learning for Portfolio Tail Risk Measurement  [paper](https://arxiv.org/pdf/1710.05204.pdf) / [Abstract](https://gist.github.com/mages/573eb991d9f9b08014337148dcbcf4a2#--statistical-learning-for-portfolio-tail-risk-measurement) / [slide](https://insurancedatascience.org/downloads/London2018/Session3/Mike_Ludkovski.pdf) 
+
+
+#### Sensitivity
+- [St] Reverse Sensitivity Testing: What does it take to break the model? [paper](http://openaccess.city.ac.uk/18896/) / [slide](https://insurancedatascience.org/downloads/London2018/Session3/Silvana_Pesenti.pdf)
 
 
 #### Annuity
@@ -670,6 +687,19 @@ From machinelearning.ai
 * Artificial Intelligence Task Force – Medical, Healthcare, and Insurance 1/18/19 [YT3.5hr](https://youtu.be/SFnpLzXLeXE)
 * Webnir: Rise of Robotic Process Automation ( RPA ) and Artificial Intelligence ( AI ) in Insurance [YT1hr](https://youtu.be/tVcJ77zS_zg) India accent
 * [Lecture] Machine Learning Lecture 16 “Empirical Risk Minimization” -Cornell CS4780 SP17 [YT46mins](https://youtu.be/AkmPv2WEsHw)
+
+
+----------
+
+## DataSet or Kaggle 
+
+[Back to top](#contents)
+
+1. [Driver Telematics Analysis](https://www.kaggle.com/c/axa-driver-telematics-analysis)
+> [Analysis w/ details github](https://github.com/ivanliu1989/Driver-Telematics-Analysis)
+
+2. 
+
 
 ----------
 
