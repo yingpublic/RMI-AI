@@ -260,7 +260,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 
 #### Rare Event
-- [DL] 2017: Google Brain: [paper](https://openreview.net/pdf?id=SJTQLdqlg) / [github](https://github.com/ageron/tensorflow-models/tree/master/learning_to_remember_rare_events) / [slide](https://www.slideshare.net/TaegyunJeon1/pr12-pr036-learning-to-remember-rare-events) / [reddit](https://www.reddit.com/r/MachineLearning/comments/5ma0r6/r_learning_to_remember_rare_events_kaiser_et_al/) / [openreview](hhttps://openreview.net/forum?id=SJTQLdqlg)
+- [DL] 2017: Google Brain: LEARNING TO REMEMBER RARE EVENTS [paper](https://openreview.net/pdf?id=SJTQLdqlg) / [github](https://github.com/ageron/tensorflow-models/tree/master/learning_to_remember_rare_events) / [slide](https://www.slideshare.net/TaegyunJeon1/pr12-pr036-learning-to-remember-rare-events) / [reddit](https://www.reddit.com/r/MachineLearning/comments/5ma0r6/r_learning_to_remember_rare_events_kaiser_et_al/) / [openreview](hhttps://openreview.net/forum?id=SJTQLdqlg)
 - Lecture: Data Mining for Analysis of Rare Events: A Case Study in Security, Financial and Medical Applications [handout](https://www-users.cs.umn.edu/~lazar027/pakdd04_tutorial.pdf)
 >> Unsupervised techniques
 >>>  Deviation detection, outlier analysis, anomaly detection, exception mining
@@ -700,7 +700,10 @@ From machinelearning.ai
 1. [Driver Telematics Analysis](https://www.kaggle.com/c/axa-driver-telematics-analysis)
 > [Analysis w/ details github](https://github.com/ivanliu1989/Driver-Telematics-Analysis)
 
-2. 
+2. [Prudential Life Insurance Assessment](https://www.kaggle.com/c/prudential-life-insurance-assessment)
+[article](https://www.finextra.com/blogposting/16115/curious-case-of-actuarial-science-geocoding-and-machine-learning)
+[github](https://github.com/AntonUBC/Prudential-Life-Insurance-Assessment)
+
 
 
 ----------
@@ -725,6 +728,9 @@ From machinelearning.ai
 - [credit-card-fraud](https://github.com/ellisvalentiner/credit-card-fraud)
 - [ml-fraud-detection](https://github.com/georgymh/ml-fraud-detection)
 - [Auto bodily injury loss data](https://github.com/sterling19/Insurance_Modeling)
+
+--------------
+
 
 
 --------------
