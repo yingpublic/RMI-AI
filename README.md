@@ -656,6 +656,14 @@ Session on Systemic Risk Analytics and Macroprudential Policy
 International Gerber-Shiu Workshop
 Actuarial Research Conference
 
+--
+Talks in Financial and Insurance Mathematics
+This is the regular weekly research seminar on Insurance Mathematics and Stochastic Finance.
+http://www.risklab.ch/news-and-events/talks-in-imsf.html
+
+--
+
+
 ----------
 
 ## Blog or Videos 
