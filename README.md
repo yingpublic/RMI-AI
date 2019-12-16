@@ -46,7 +46,11 @@
 > * Opening and closing prices have their own patterns - both in stocks and futures - the two asset classes I have worked with.
 > * News and rumors are the driving forces when it comes to multi-day horizons. Specific company news can happen at any time without any prior notice. However, the timeline for some events is known beforehand. Company result schedule, as well as the economic data calendar, are known beforehand.
 > * Value investing and economic cycles matter the most when it comes to price changes at a multi-year range.
-
+> Panel Discussion: [Will Artificial Intelligence Create a ‘Useless Class’ of Financial Professionals?](https://www.youtube.com/watch?v=OvqW2Q8XcmA)
+* Matthew Dixon
+> * Research Interest [Deep Learning for Algorithmic Trading](http://mypages.iit.edu/~mdixon7/dl_algo.html) [Machine Learning and Econometrics](http://mypages.iit.edu/~mdixon7/mle.html) [Algorithms for Computational Finance](http://mypages.iit.edu/~mdixon7/comp_finance.html)
+> * Class [Machine Learning/Computational Analytics](https://sites.google.com/a/analytics.usfca.edu/msan-602-computational-analytics-i/) [text-mining](https://sites.google.com/a/usfca.edu/msan630-text-mining/) [Applications-of-Analytics](https://sites.google.com/a/usfca.edu/msan631-applications-of-analytics/) [data-acquistion](https://sites.google.com/a/usfca.edu/msan692-data-acquistion/)
+> * The Neural Networks Survival Kit for Quants http://mypages.iit.edu/~mdixon7/presentations/RavenPack_AI_Dixon.pdf
 
 
 ------------
@@ -153,6 +157,10 @@ SOA: 2019Jan: [Machine-Learning Methods for Insurance Applications-A Survey](htt
 
 Machine Learning for Actuaries [ppt](https://www.actuaries.org.uk/documents/machine-learning-presentation) 不錯
 
+
+#### [Optimization] Can it improve?
+- 2017: [Stat] A practical model for pricing optimization in car
+insurance http://www.actuaries.org/panama2017/docs/papers/3b_ASTIN_Paper_Mayorga.pdf
 
 
 #### [ratemaking]
