@@ -258,6 +258,7 @@ Decentralized Insurance Developer Conference 2018 [Playlist](https://www.youtube
 
 
 #### Weather Risk
+- [DL] 2019: NAAJ: Deep Learning at the Interface of Agricultural Insurance Risk and Spatio-Temporal Uncertainty in Weather Extremes [paper](https://www.tandfonline.com/doi/abs/10.1080/10920277.2019.1633928?journalCode=uaaj20)
 - [DL] 2019: Deep Learning for Improved Agricultural Risk Management [paper](https://www.researchgate.net/publication/330366743_Deep_Learning_for_Improved_Agricultural_Risk_Management)
 - [MCMC] 2017: Statistical Methods for Weather-related Insurance Claims [dissertation](http://eprints.lancs.ac.uk/85903/1/2017Rohrbeckphd.pdf)
 - [MCMC] 2017: Extreme Value Modelling of Water-related Insurance Claims [paper](http://eprints.lancs.ac.uk/89443/1/AOAS1081.pdf)
